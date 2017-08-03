@@ -1,0 +1,5 @@
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Homework_01.07.2017AdvancedLoops\10.CheckPrime\bin\Debug\10.CheckPrime.exe.config
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Homework_01.07.2017AdvancedLoops\10.CheckPrime\bin\Debug\10.CheckPrime.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Homework_01.07.2017AdvancedLoops\10.CheckPrime\bin\Debug\10.CheckPrime.pdb
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Homework_01.07.2017AdvancedLoops\10.CheckPrime\obj\Debug\10.CheckPrime.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Homework_01.07.2017AdvancedLoops\10.CheckPrime\obj\Debug\10.CheckPrime.pdb

@@ -1,0 +1,6 @@
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Programming Basics\Programming Basics - Old Exams\TrainingForExam\05-PerfectDiamond\bin\Debug\05-PerfectDiamond.exe.config
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Programming Basics\Programming Basics - Old Exams\TrainingForExam\05-PerfectDiamond\bin\Debug\05-PerfectDiamond.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Programming Basics\Programming Basics - Old Exams\TrainingForExam\05-PerfectDiamond\bin\Debug\05-PerfectDiamond.pdb
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Programming Basics\Programming Basics - Old Exams\TrainingForExam\05-PerfectDiamond\obj\Debug\05-PerfectDiamond.csprojResolveAssemblyReference.cache
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Programming Basics\Programming Basics - Old Exams\TrainingForExam\05-PerfectDiamond\obj\Debug\05-PerfectDiamond.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Programming Basics\Programming Basics - Old Exams\TrainingForExam\05-PerfectDiamond\obj\Debug\05-PerfectDiamond.pdb

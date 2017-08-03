@@ -1,0 +1,6 @@
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Methods\4.SayMonth\bin\Debug\4.SayMonth.exe.config
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Methods\4.SayMonth\bin\Debug\4.SayMonth.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Methods\4.SayMonth\bin\Debug\4.SayMonth.pdb
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Methods\4.SayMonth\obj\Debug\4.SayMonth.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Methods\4.SayMonth\obj\Debug\4.SayMonth.pdb
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Methods\4.SayMonth\obj\Debug\4.SayMonth.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Programming Basics\Programming Basics - Old Exams\Training18.07.17\05\bin\Debug\05.exe.config
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Programming Basics\Programming Basics - Old Exams\Training18.07.17\05\bin\Debug\05.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Programming Basics\Programming Basics - Old Exams\Training18.07.17\05\bin\Debug\05.pdb
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Programming Basics\Programming Basics - Old Exams\Training18.07.17\05\obj\Debug\05.csprojResolveAssemblyReference.cache
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Programming Basics\Programming Basics - Old Exams\Training18.07.17\05\obj\Debug\05.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Programming Basics\Programming Basics - Old Exams\Training18.07.17\05\obj\Debug\05.pdb

@@ -1,0 +1,5 @@
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Lecture3SoftUni\4.GreaterNumber\bin\Debug\4.GreaterNumber.exe.config
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Lecture3SoftUni\4.GreaterNumber\bin\Debug\4.GreaterNumber.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Lecture3SoftUni\4.GreaterNumber\bin\Debug\4.GreaterNumber.pdb
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Lecture3SoftUni\4.GreaterNumber\obj\Debug\4.GreaterNumber.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Lecture3SoftUni\4.GreaterNumber\obj\Debug\4.GreaterNumber.pdb

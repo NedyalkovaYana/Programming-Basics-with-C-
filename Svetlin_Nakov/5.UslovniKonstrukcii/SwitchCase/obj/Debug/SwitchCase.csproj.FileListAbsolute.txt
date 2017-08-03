@@ -1,0 +1,6 @@
+c:\users\yana nedyalkova\documents\visual studio 2015\Projects\5.UslovniKonstrukcii\SwitchCase\bin\Debug\SwitchCase.exe.config
+c:\users\yana nedyalkova\documents\visual studio 2015\Projects\5.UslovniKonstrukcii\SwitchCase\bin\Debug\SwitchCase.exe
+c:\users\yana nedyalkova\documents\visual studio 2015\Projects\5.UslovniKonstrukcii\SwitchCase\bin\Debug\SwitchCase.pdb
+c:\users\yana nedyalkova\documents\visual studio 2015\Projects\5.UslovniKonstrukcii\SwitchCase\obj\Debug\SwitchCase.csprojResolveAssemblyReference.cache
+c:\users\yana nedyalkova\documents\visual studio 2015\Projects\5.UslovniKonstrukcii\SwitchCase\obj\Debug\SwitchCase.exe
+c:\users\yana nedyalkova\documents\visual studio 2015\Projects\5.UslovniKonstrukcii\SwitchCase\obj\Debug\SwitchCase.pdb

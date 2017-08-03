@@ -1,0 +1,6 @@
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2015\Projects\6.Cikli_Homework\3.FindMinMaxNumber\bin\Debug\3.FindMinMaxNumber.exe.config
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2015\Projects\6.Cikli_Homework\3.FindMinMaxNumber\obj\Debug\3.FindMinMaxNumber.csprojResolveAssemblyReference.cache
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2015\Projects\6.Cikli_Homework\3.FindMinMaxNumber\bin\Debug\3.FindMinMaxNumber.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2015\Projects\6.Cikli_Homework\3.FindMinMaxNumber\bin\Debug\3.FindMinMaxNumber.pdb
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2015\Projects\6.Cikli_Homework\3.FindMinMaxNumber\obj\Debug\3.FindMinMaxNumber.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2015\Projects\6.Cikli_Homework\3.FindMinMaxNumber\obj\Debug\3.FindMinMaxNumber.pdb

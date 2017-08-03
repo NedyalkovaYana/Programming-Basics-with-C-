@@ -1,0 +1,6 @@
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\4.Homework10.06.2017ComplConditionState\11.Cinema\bin\Debug\11.Cinema.exe.config
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\4.Homework10.06.2017ComplConditionState\11.Cinema\bin\Debug\11.Cinema.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\4.Homework10.06.2017ComplConditionState\11.Cinema\bin\Debug\11.Cinema.pdb
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\4.Homework10.06.2017ComplConditionState\11.Cinema\obj\Debug\11.Cinema.csprojResolveAssemblyReference.cache
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\4.Homework10.06.2017ComplConditionState\11.Cinema\obj\Debug\11.Cinema.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\4.Homework10.06.2017ComplConditionState\11.Cinema\obj\Debug\11.Cinema.pdb

@@ -1,0 +1,5 @@
+c:\users\yana nedyalkova\documents\visual studio 2015\Projects\2.HomeworkOperators\3.CalcRectangleArea\bin\Debug\3.CalcRectangleArea.exe.config
+c:\users\yana nedyalkova\documents\visual studio 2015\Projects\2.HomeworkOperators\3.CalcRectangleArea\bin\Debug\3.CalcRectangleArea.exe
+c:\users\yana nedyalkova\documents\visual studio 2015\Projects\2.HomeworkOperators\3.CalcRectangleArea\bin\Debug\3.CalcRectangleArea.pdb
+c:\users\yana nedyalkova\documents\visual studio 2015\Projects\2.HomeworkOperators\3.CalcRectangleArea\obj\Debug\3.CalcRectangleArea.exe
+c:\users\yana nedyalkova\documents\visual studio 2015\Projects\2.HomeworkOperators\3.CalcRectangleArea\obj\Debug\3.CalcRectangleArea.pdb

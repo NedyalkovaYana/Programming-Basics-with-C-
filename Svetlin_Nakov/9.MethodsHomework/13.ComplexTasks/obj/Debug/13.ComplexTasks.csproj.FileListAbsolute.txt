@@ -1,0 +1,6 @@
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Svetlin_Nakov\9.MethodsHomework\13.ComplexTasks\bin\Debug\13.ComplexTasks.exe.config
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Svetlin_Nakov\9.MethodsHomework\13.ComplexTasks\bin\Debug\13.ComplexTasks.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Svetlin_Nakov\9.MethodsHomework\13.ComplexTasks\bin\Debug\13.ComplexTasks.pdb
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Svetlin_Nakov\9.MethodsHomework\13.ComplexTasks\obj\Debug\13.ComplexTasks.csprojResolveAssemblyReference.cache
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Svetlin_Nakov\9.MethodsHomework\13.ComplexTasks\obj\Debug\13.ComplexTasks.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Svetlin_Nakov\9.MethodsHomework\13.ComplexTasks\obj\Debug\13.ComplexTasks.pdb

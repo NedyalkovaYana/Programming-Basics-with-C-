@@ -1,0 +1,6 @@
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\SampleCoding101ExamJan2016\03.PointOnSegment\bin\Debug\03.PointOnSegment.exe.config
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\SampleCoding101ExamJan2016\03.PointOnSegment\bin\Debug\03.PointOnSegment.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\SampleCoding101ExamJan2016\03.PointOnSegment\bin\Debug\03.PointOnSegment.pdb
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\SampleCoding101ExamJan2016\03.PointOnSegment\obj\Debug\03.PointOnSegment.csprojResolveAssemblyReference.cache
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\SampleCoding101ExamJan2016\03.PointOnSegment\obj\Debug\03.PointOnSegment.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\SampleCoding101ExamJan2016\03.PointOnSegment\obj\Debug\03.PointOnSegment.pdb

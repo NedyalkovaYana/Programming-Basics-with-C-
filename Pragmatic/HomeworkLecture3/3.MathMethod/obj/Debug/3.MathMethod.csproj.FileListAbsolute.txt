@@ -1,0 +1,6 @@
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\HomeworkLecture3\3.MathMethod\bin\Debug\3.MathMethod.exe.config
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\HomeworkLecture3\3.MathMethod\bin\Debug\3.MathMethod.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\HomeworkLecture3\3.MathMethod\bin\Debug\3.MathMethod.pdb
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\HomeworkLecture3\3.MathMethod\obj\Debug\3.MathMethod.csprojResolveAssemblyReference.cache
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\HomeworkLecture3\3.MathMethod\obj\Debug\3.MathMethod.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\HomeworkLecture3\3.MathMethod\obj\Debug\3.MathMethod.pdb

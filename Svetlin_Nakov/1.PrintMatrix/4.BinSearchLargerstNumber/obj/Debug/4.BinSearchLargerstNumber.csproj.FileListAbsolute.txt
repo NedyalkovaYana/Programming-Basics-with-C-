@@ -1,0 +1,6 @@
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\1.PrintMatrix\4.BinSearchLargerstNumber\bin\Debug\4.BinSearchLargerstNumber.exe.config
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\1.PrintMatrix\4.BinSearchLargerstNumber\bin\Debug\4.BinSearchLargerstNumber.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\1.PrintMatrix\4.BinSearchLargerstNumber\bin\Debug\4.BinSearchLargerstNumber.pdb
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\1.PrintMatrix\4.BinSearchLargerstNumber\obj\Debug\4.BinSearchLargerstNumber.csprojResolveAssemblyReference.cache
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\1.PrintMatrix\4.BinSearchLargerstNumber\obj\Debug\4.BinSearchLargerstNumber.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\1.PrintMatrix\4.BinSearchLargerstNumber\obj\Debug\4.BinSearchLargerstNumber.pdb

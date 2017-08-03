@@ -1,0 +1,6 @@
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\OldExam_19.03.2017\05.Hourglass\bin\Debug\05.Hourglass.exe.config
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\OldExam_19.03.2017\05.Hourglass\bin\Debug\05.Hourglass.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\OldExam_19.03.2017\05.Hourglass\bin\Debug\05.Hourglass.pdb
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\OldExam_19.03.2017\05.Hourglass\obj\Debug\05.Hourglass.csprojResolveAssemblyReference.cache
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\OldExam_19.03.2017\05.Hourglass\obj\Debug\05.Hourglass.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\OldExam_19.03.2017\05.Hourglass\obj\Debug\05.Hourglass.pdb

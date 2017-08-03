@@ -1,0 +1,6 @@
+c:\users\yana nedyalkova\documents\visual studio 2015\Projects\5.UslovniKonstrukcii\5.UslovniKonstrukcii\bin\Debug\5.UslovniKonstrukcii.exe.config
+c:\users\yana nedyalkova\documents\visual studio 2015\Projects\5.UslovniKonstrukcii\5.UslovniKonstrukcii\bin\Debug\5.UslovniKonstrukcii.exe
+c:\users\yana nedyalkova\documents\visual studio 2015\Projects\5.UslovniKonstrukcii\5.UslovniKonstrukcii\bin\Debug\5.UslovniKonstrukcii.pdb
+c:\users\yana nedyalkova\documents\visual studio 2015\Projects\5.UslovniKonstrukcii\5.UslovniKonstrukcii\obj\Debug\IfElse.csprojResolveAssemblyReference.cache
+c:\users\yana nedyalkova\documents\visual studio 2015\Projects\5.UslovniKonstrukcii\5.UslovniKonstrukcii\obj\Debug\5.UslovniKonstrukcii.exe
+c:\users\yana nedyalkova\documents\visual studio 2015\Projects\5.UslovniKonstrukcii\5.UslovniKonstrukcii\obj\Debug\5.UslovniKonstrukcii.pdb

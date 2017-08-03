@@ -1,0 +1,5 @@
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\OldExam19.03.2017Evening\03.Truck Driver\bin\Debug\03.Truck Driver.exe.config
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\OldExam19.03.2017Evening\03.Truck Driver\bin\Debug\03.Truck Driver.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\OldExam19.03.2017Evening\03.Truck Driver\bin\Debug\03.Truck Driver.pdb
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\OldExam19.03.2017Evening\03.Truck Driver\obj\Debug\03.Truck Driver.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\OldExam19.03.2017Evening\03.Truck Driver\obj\Debug\03.Truck Driver.pdb

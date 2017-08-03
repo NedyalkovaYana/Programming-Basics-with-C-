@@ -1,0 +1,5 @@
+c:\users\boris kovachev\documents\visual studio 2015\Projects\Loops\Numbers1To1000, 7\bin\Debug\Numbers1To1000, 7.exe
+c:\users\boris kovachev\documents\visual studio 2015\Projects\Loops\Numbers1To1000, 7\bin\Debug\Numbers1To1000, 7.pdb
+c:\users\boris kovachev\documents\visual studio 2015\Projects\Loops\Numbers1To1000, 7\obj\Debug\Numbers1To1000, 7.csprojResolveAssemblyReference.cache
+c:\users\boris kovachev\documents\visual studio 2015\Projects\Loops\Numbers1To1000, 7\obj\Debug\Numbers1To1000, 7.exe
+c:\users\boris kovachev\documents\visual studio 2015\Projects\Loops\Numbers1To1000, 7\obj\Debug\Numbers1To1000, 7.pdb

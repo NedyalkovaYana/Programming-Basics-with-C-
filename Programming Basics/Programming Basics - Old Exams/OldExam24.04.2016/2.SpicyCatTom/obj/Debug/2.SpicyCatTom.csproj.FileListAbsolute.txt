@@ -1,0 +1,6 @@
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\OldExam24.04.2016\2.SpicyCatTom\bin\Debug\2.SpicyCatTom.exe.config
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\OldExam24.04.2016\2.SpicyCatTom\bin\Debug\2.SpicyCatTom.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\OldExam24.04.2016\2.SpicyCatTom\bin\Debug\2.SpicyCatTom.pdb
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\OldExam24.04.2016\2.SpicyCatTom\obj\Debug\2.SpicyCatTom.csprojResolveAssemblyReference.cache
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\OldExam24.04.2016\2.SpicyCatTom\obj\Debug\2.SpicyCatTom.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\OldExam24.04.2016\2.SpicyCatTom\obj\Debug\2.SpicyCatTom.pdb

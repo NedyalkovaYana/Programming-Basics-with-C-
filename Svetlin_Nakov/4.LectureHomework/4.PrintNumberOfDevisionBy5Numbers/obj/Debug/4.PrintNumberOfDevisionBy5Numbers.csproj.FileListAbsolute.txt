@@ -1,0 +1,6 @@
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2015\Projects\4.LectureHomework\4.PrintNumberOfDevisionBy5Numbers\bin\Debug\4.PrintNumberOfDevisionBy5Numbers.exe.config
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2015\Projects\4.LectureHomework\4.PrintNumberOfDevisionBy5Numbers\obj\Debug\4.PrintNumberOfDevisionBy5Numbers.csprojResolveAssemblyReference.cache
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2015\Projects\4.LectureHomework\4.PrintNumberOfDevisionBy5Numbers\bin\Debug\4.PrintNumberOfDevisionBy5Numbers.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2015\Projects\4.LectureHomework\4.PrintNumberOfDevisionBy5Numbers\bin\Debug\4.PrintNumberOfDevisionBy5Numbers.pdb
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2015\Projects\4.LectureHomework\4.PrintNumberOfDevisionBy5Numbers\obj\Debug\4.PrintNumberOfDevisionBy5Numbers.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2015\Projects\4.LectureHomework\4.PrintNumberOfDevisionBy5Numbers\obj\Debug\4.PrintNumberOfDevisionBy5Numbers.pdb

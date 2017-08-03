@@ -1,0 +1,6 @@
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2015\Projects\2.HomeworkOperators\10.BooleanExpressionTrueFalse\bin\Debug\10.BooleanExpressionTrueFalse.exe.config
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2015\Projects\2.HomeworkOperators\10.BooleanExpressionTrueFalse\bin\Debug\10.BooleanExpressionTrueFalse.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2015\Projects\2.HomeworkOperators\10.BooleanExpressionTrueFalse\bin\Debug\10.BooleanExpressionTrueFalse.pdb
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2015\Projects\2.HomeworkOperators\10.BooleanExpressionTrueFalse\obj\Debug\10.BooleanExpressionTrueFalse.csprojResolveAssemblyReference.cache
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2015\Projects\2.HomeworkOperators\10.BooleanExpressionTrueFalse\obj\Debug\10.BooleanExpressionTrueFalse.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2015\Projects\2.HomeworkOperators\10.BooleanExpressionTrueFalse\obj\Debug\10.BooleanExpressionTrueFalse.pdb

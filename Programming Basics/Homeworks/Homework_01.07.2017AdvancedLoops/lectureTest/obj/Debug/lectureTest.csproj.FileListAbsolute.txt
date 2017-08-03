@@ -1,0 +1,6 @@
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Homework_01.07.2017AdvancedLoops\lectureTest\bin\Debug\lectureTest.exe.config
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Homework_01.07.2017AdvancedLoops\lectureTest\bin\Debug\lectureTest.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Homework_01.07.2017AdvancedLoops\lectureTest\bin\Debug\lectureTest.pdb
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Homework_01.07.2017AdvancedLoops\lectureTest\obj\Debug\lectureTest.csprojResolveAssemblyReference.cache
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Homework_01.07.2017AdvancedLoops\lectureTest\obj\Debug\lectureTest.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Homework_01.07.2017AdvancedLoops\lectureTest\obj\Debug\lectureTest.pdb

@@ -1,0 +1,6 @@
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\OldExam17.05.2017\3.SchoolCamp\bin\Debug\3.SchoolCamp.exe.config
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\OldExam17.05.2017\3.SchoolCamp\bin\Debug\3.SchoolCamp.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\OldExam17.05.2017\3.SchoolCamp\bin\Debug\3.SchoolCamp.pdb
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\OldExam17.05.2017\3.SchoolCamp\obj\Debug\3.SchoolCamp.csprojResolveAssemblyReference.cache
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\OldExam17.05.2017\3.SchoolCamp\obj\Debug\3.SchoolCamp.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\OldExam17.05.2017\3.SchoolCamp\obj\Debug\3.SchoolCamp.pdb

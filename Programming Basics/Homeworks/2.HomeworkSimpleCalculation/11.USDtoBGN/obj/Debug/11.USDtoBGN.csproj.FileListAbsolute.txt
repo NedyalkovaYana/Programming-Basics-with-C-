@@ -1,0 +1,5 @@
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\SimpleCalculation\11.USDtoBGN\bin\Debug\11.USDtoBGN.exe.config
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\SimpleCalculation\11.USDtoBGN\bin\Debug\11.USDtoBGN.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\SimpleCalculation\11.USDtoBGN\bin\Debug\11.USDtoBGN.pdb
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\SimpleCalculation\11.USDtoBGN\obj\Debug\11.USDtoBGN.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\SimpleCalculation\11.USDtoBGN\obj\Debug\11.USDtoBGN.pdb

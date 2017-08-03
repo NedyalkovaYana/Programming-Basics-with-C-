@@ -1,0 +1,6 @@
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\5.Homework17062017\10.HalfSumElement\bin\Debug\10.HalfSumElement.exe.config
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\5.Homework17062017\10.HalfSumElement\bin\Debug\10.HalfSumElement.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\5.Homework17062017\10.HalfSumElement\bin\Debug\10.HalfSumElement.pdb
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\5.Homework17062017\10.HalfSumElement\obj\Debug\10.HalfSumElement.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\5.Homework17062017\10.HalfSumElement\obj\Debug\10.HalfSumElement.pdb
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\5.Homework17062017\10.HalfSumElement\obj\Debug\10.HalfSumElement.csprojResolveAssemblyReference.cache

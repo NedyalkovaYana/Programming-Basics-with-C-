@@ -1,0 +1,2 @@
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2015\Projects\HelloCSharp\PrintYourName\obj\Debug\PrintYourName.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2015\Projects\HelloCSharp\PrintYourName\obj\Debug\PrintYourName.pdb

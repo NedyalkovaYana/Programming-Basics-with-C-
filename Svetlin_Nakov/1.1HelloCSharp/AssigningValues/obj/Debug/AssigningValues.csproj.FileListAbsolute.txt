@@ -1,0 +1,5 @@
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2015\Projects\HelloCSharp\AssigningValues\obj\Debug\AssigningValues.csprojResolveAssemblyReference.cache
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2015\Projects\HelloCSharp\AssigningValues\bin\Debug\AssigningValues.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2015\Projects\HelloCSharp\AssigningValues\bin\Debug\AssigningValues.pdb
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2015\Projects\HelloCSharp\AssigningValues\obj\Debug\AssigningValues.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2015\Projects\HelloCSharp\AssigningValues\obj\Debug\AssigningValues.pdb

@@ -1,0 +1,6 @@
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\DrawOnConsole_lecture\classWork\bin\Debug\classWork.exe.config
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\DrawOnConsole_lecture\classWork\bin\Debug\classWork.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\DrawOnConsole_lecture\classWork\bin\Debug\classWork.pdb
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\DrawOnConsole_lecture\classWork\obj\Debug\classWork.csprojResolveAssemblyReference.cache
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\DrawOnConsole_lecture\classWork\obj\Debug\classWork.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\DrawOnConsole_lecture\classWork\obj\Debug\classWork.pdb

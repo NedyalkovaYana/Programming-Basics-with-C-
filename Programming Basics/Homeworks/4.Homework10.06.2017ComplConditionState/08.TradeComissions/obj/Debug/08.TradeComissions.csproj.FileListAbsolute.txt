@@ -1,0 +1,6 @@
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\4.Homework10.06.2017ComplConditionState\08.TradeComissions\bin\Debug\08.TradeComissions.exe.config
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\4.Homework10.06.2017ComplConditionState\08.TradeComissions\bin\Debug\08.TradeComissions.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\4.Homework10.06.2017ComplConditionState\08.TradeComissions\bin\Debug\08.TradeComissions.pdb
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\4.Homework10.06.2017ComplConditionState\08.TradeComissions\obj\Debug\08.TradeComissions.csprojResolveAssemblyReference.cache
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\4.Homework10.06.2017ComplConditionState\08.TradeComissions\obj\Debug\08.TradeComissions.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\4.Homework10.06.2017ComplConditionState\08.TradeComissions\obj\Debug\08.TradeComissions.pdb

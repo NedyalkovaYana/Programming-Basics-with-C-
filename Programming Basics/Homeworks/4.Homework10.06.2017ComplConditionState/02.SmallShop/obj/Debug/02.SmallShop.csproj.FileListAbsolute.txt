@@ -1,0 +1,5 @@
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\4.Homework10.06.2017ComplConditionState\02.SmallShop\bin\Debug\02.SmallShop.exe.config
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\4.Homework10.06.2017ComplConditionState\02.SmallShop\bin\Debug\02.SmallShop.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\4.Homework10.06.2017ComplConditionState\02.SmallShop\bin\Debug\02.SmallShop.pdb
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\4.Homework10.06.2017ComplConditionState\02.SmallShop\obj\Debug\02.SmallShop.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\4.Homework10.06.2017ComplConditionState\02.SmallShop\obj\Debug\02.SmallShop.pdb

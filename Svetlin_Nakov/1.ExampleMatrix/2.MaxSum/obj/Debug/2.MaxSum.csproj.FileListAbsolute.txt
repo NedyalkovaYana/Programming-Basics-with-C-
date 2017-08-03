@@ -1,0 +1,5 @@
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\1.ExampleMatrix\2.MaxSum\bin\Debug\2.MaxSum.exe.config
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\1.ExampleMatrix\2.MaxSum\bin\Debug\2.MaxSum.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\1.ExampleMatrix\2.MaxSum\bin\Debug\2.MaxSum.pdb
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\1.ExampleMatrix\2.MaxSum\obj\Debug\2.MaxSum.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\1.ExampleMatrix\2.MaxSum\obj\Debug\2.MaxSum.pdb

@@ -1,0 +1,6 @@
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\1.ExampleMatrix\6.SortingBeers\bin\Debug\6.SortingBeers.exe.config
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\1.ExampleMatrix\6.SortingBeers\bin\Debug\6.SortingBeers.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\1.ExampleMatrix\6.SortingBeers\bin\Debug\6.SortingBeers.pdb
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\1.ExampleMatrix\6.SortingBeers\obj\Debug\6.SortingBeers.csprojResolveAssemblyReference.cache
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\1.ExampleMatrix\6.SortingBeers\obj\Debug\6.SortingBeers.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\1.ExampleMatrix\6.SortingBeers\obj\Debug\6.SortingBeers.pdb

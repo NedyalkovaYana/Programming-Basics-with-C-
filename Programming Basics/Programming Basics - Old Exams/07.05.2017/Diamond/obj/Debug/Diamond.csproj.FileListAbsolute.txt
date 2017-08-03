@@ -1,0 +1,6 @@
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\07.05.2017\Diamond\bin\Debug\Diamond.exe.config
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\07.05.2017\Diamond\bin\Debug\Diamond.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\07.05.2017\Diamond\bin\Debug\Diamond.pdb
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\07.05.2017\Diamond\obj\Debug\Diamond.csprojResolveAssemblyReference.cache
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\07.05.2017\Diamond\obj\Debug\Diamond.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\07.05.2017\Diamond\obj\Debug\Diamond.pdb

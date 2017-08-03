@@ -1,0 +1,5 @@
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Homework_01.07.2017AdvancedLoops\06.NumberRange1-100\bin\Debug\06.NumberRange1-100.exe.config
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Homework_01.07.2017AdvancedLoops\06.NumberRange1-100\bin\Debug\06.NumberRange1-100.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Homework_01.07.2017AdvancedLoops\06.NumberRange1-100\bin\Debug\06.NumberRange1-100.pdb
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Homework_01.07.2017AdvancedLoops\06.NumberRange1-100\obj\Debug\06.NumberRange1-100.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Homework_01.07.2017AdvancedLoops\06.NumberRange1-100\obj\Debug\06.NumberRange1-100.pdb

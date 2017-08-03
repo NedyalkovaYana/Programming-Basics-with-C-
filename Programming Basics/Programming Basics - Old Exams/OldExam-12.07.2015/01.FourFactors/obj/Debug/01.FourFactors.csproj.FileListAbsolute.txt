@@ -1,0 +1,6 @@
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Programming Basics\Programming Basics - Old Exams\OldExam-12.07.2015\01.FourFactors\bin\Debug\01.FourFactors.exe.config
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Programming Basics\Programming Basics - Old Exams\OldExam-12.07.2015\01.FourFactors\bin\Debug\01.FourFactors.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Programming Basics\Programming Basics - Old Exams\OldExam-12.07.2015\01.FourFactors\bin\Debug\01.FourFactors.pdb
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Programming Basics\Programming Basics - Old Exams\OldExam-12.07.2015\01.FourFactors\obj\Debug\01.FourFactors.csprojResolveAssemblyReference.cache
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Programming Basics\Programming Basics - Old Exams\OldExam-12.07.2015\01.FourFactors\obj\Debug\01.FourFactors.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Programming Basics\Programming Basics - Old Exams\OldExam-12.07.2015\01.FourFactors\obj\Debug\01.FourFactors.pdb

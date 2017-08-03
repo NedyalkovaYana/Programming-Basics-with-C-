@@ -1,0 +1,6 @@
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2015\Projects\4.LectureHomework\6.QuadraticEquationSolution\bin\Debug\6.QuadraticEquationSolution.exe.config
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2015\Projects\4.LectureHomework\6.QuadraticEquationSolution\bin\Debug\6.QuadraticEquationSolution.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2015\Projects\4.LectureHomework\6.QuadraticEquationSolution\bin\Debug\6.QuadraticEquationSolution.pdb
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2015\Projects\4.LectureHomework\6.QuadraticEquationSolution\obj\Debug\6.QuadraticEquationSolution.csprojResolveAssemblyReference.cache
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2015\Projects\4.LectureHomework\6.QuadraticEquationSolution\obj\Debug\6.QuadraticEquationSolution.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2015\Projects\4.LectureHomework\6.QuadraticEquationSolution\obj\Debug\6.QuadraticEquationSolution.pdb

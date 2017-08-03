@@ -1,0 +1,6 @@
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Svetlin_Nakov\7.Array\18.LongestIncreasingSequence\bin\Debug\18.LongestIncreasingSequence.exe.config
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Svetlin_Nakov\7.Array\18.LongestIncreasingSequence\bin\Debug\18.LongestIncreasingSequence.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Svetlin_Nakov\7.Array\18.LongestIncreasingSequence\bin\Debug\18.LongestIncreasingSequence.pdb
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Svetlin_Nakov\7.Array\18.LongestIncreasingSequence\obj\Debug\18.LongestIncreasingSequence.csprojResolveAssemblyReference.cache
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Svetlin_Nakov\7.Array\18.LongestIncreasingSequence\obj\Debug\18.LongestIncreasingSequence.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Svetlin_Nakov\7.Array\18.LongestIncreasingSequence\obj\Debug\18.LongestIncreasingSequence.pdb

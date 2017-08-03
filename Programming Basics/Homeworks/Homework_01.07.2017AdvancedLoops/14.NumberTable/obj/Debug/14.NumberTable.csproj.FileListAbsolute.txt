@@ -1,0 +1,5 @@
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Homework_01.07.2017AdvancedLoops\14.NumberTable\bin\Debug\14.NumberTable.exe.config
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Homework_01.07.2017AdvancedLoops\14.NumberTable\bin\Debug\14.NumberTable.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Homework_01.07.2017AdvancedLoops\14.NumberTable\bin\Debug\14.NumberTable.pdb
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Homework_01.07.2017AdvancedLoops\14.NumberTable\obj\Debug\14.NumberTable.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Homework_01.07.2017AdvancedLoops\14.NumberTable\obj\Debug\14.NumberTable.pdb

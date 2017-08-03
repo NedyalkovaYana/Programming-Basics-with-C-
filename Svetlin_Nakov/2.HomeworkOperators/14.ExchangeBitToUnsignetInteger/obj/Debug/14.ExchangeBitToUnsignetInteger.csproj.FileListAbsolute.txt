@@ -1,0 +1,6 @@
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2015\Projects\2.HomeworkOperators\14.ExchangeBitToUnsignetInteger\bin\Debug\14.ExchangeBitToUnsignetInteger.exe.config
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2015\Projects\2.HomeworkOperators\14.ExchangeBitToUnsignetInteger\obj\Debug\14.ExchangeBitToUnsignetInteger.csprojResolveAssemblyReference.cache
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2015\Projects\2.HomeworkOperators\14.ExchangeBitToUnsignetInteger\bin\Debug\14.ExchangeBitToUnsignetInteger.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2015\Projects\2.HomeworkOperators\14.ExchangeBitToUnsignetInteger\bin\Debug\14.ExchangeBitToUnsignetInteger.pdb
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2015\Projects\2.HomeworkOperators\14.ExchangeBitToUnsignetInteger\obj\Debug\14.ExchangeBitToUnsignetInteger.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2015\Projects\2.HomeworkOperators\14.ExchangeBitToUnsignetInteger\obj\Debug\14.ExchangeBitToUnsignetInteger.pdb

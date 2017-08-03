@@ -1,0 +1,6 @@
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\1.LectureHomework21052017\SquareOfStars\bin\Debug\SquareOfStars.exe.config
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\1.LectureHomework21052017\SquareOfStars\bin\Debug\SquareOfStars.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\1.LectureHomework21052017\SquareOfStars\bin\Debug\SquareOfStars.pdb
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\1.LectureHomework21052017\SquareOfStars\obj\Debug\SquareOfStars.csprojResolveAssemblyReference.cache
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\1.LectureHomework21052017\SquareOfStars\obj\Debug\SquareOfStars.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\1.LectureHomework21052017\SquareOfStars\obj\Debug\SquareOfStars.pdb

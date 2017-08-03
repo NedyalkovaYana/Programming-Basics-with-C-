@@ -1,0 +1,5 @@
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\SimpleCalculation\2.InchesToCentimeters\bin\Debug\2.InchesToCentimeters.exe.config
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\SimpleCalculation\2.InchesToCentimeters\bin\Debug\2.InchesToCentimeters.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\SimpleCalculation\2.InchesToCentimeters\bin\Debug\2.InchesToCentimeters.pdb
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\SimpleCalculation\2.InchesToCentimeters\obj\Debug\2.InchesToCentimeters.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\SimpleCalculation\2.InchesToCentimeters\obj\Debug\2.InchesToCentimeters.pdb

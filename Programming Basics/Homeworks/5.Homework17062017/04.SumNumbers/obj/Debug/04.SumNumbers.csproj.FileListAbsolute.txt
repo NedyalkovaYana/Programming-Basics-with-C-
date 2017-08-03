@@ -1,0 +1,5 @@
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\5.Homework17062017\04.SumNumbers\bin\Debug\04.SumNumbers.exe.config
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\5.Homework17062017\04.SumNumbers\bin\Debug\04.SumNumbers.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\5.Homework17062017\04.SumNumbers\bin\Debug\04.SumNumbers.pdb
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\5.Homework17062017\04.SumNumbers\obj\Debug\04.SumNumbers.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\5.Homework17062017\04.SumNumbers\obj\Debug\04.SumNumbers.pdb

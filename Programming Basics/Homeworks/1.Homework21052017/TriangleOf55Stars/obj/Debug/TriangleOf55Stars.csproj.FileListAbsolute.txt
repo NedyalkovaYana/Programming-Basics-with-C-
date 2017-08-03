@@ -1,0 +1,5 @@
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\1.LectureHomework21052017\TriangleOf55Stars\bin\Debug\TriangleOf55Stars.exe.config
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\1.LectureHomework21052017\TriangleOf55Stars\bin\Debug\TriangleOf55Stars.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\1.LectureHomework21052017\TriangleOf55Stars\bin\Debug\TriangleOf55Stars.pdb
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\1.LectureHomework21052017\TriangleOf55Stars\obj\Debug\TriangleOf55Stars.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\1.LectureHomework21052017\TriangleOf55Stars\obj\Debug\TriangleOf55Stars.pdb

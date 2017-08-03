@@ -1,0 +1,6 @@
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2015\Projects\3TemaOperators\3.BitwiseOperators\bin\Debug\3.BitwiseOperators.exe.config
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2015\Projects\3TemaOperators\3.BitwiseOperators\bin\Debug\3.BitwiseOperators.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2015\Projects\3TemaOperators\3.BitwiseOperators\bin\Debug\3.BitwiseOperators.pdb
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2015\Projects\3TemaOperators\3.BitwiseOperators\obj\Debug\3.BitwiseOperators.csprojResolveAssemblyReference.cache
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2015\Projects\3TemaOperators\3.BitwiseOperators\obj\Debug\3.BitwiseOperators.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2015\Projects\3TemaOperators\3.BitwiseOperators\obj\Debug\3.BitwiseOperators.pdb

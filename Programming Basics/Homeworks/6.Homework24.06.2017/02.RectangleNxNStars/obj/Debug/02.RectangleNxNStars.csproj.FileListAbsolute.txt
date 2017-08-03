@@ -1,0 +1,5 @@
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\6.Homework24.06.2017\02.RectangleNxNStars\bin\Debug\02.RectangleNxNStars.exe.config
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\6.Homework24.06.2017\02.RectangleNxNStars\bin\Debug\02.RectangleNxNStars.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\6.Homework24.06.2017\02.RectangleNxNStars\bin\Debug\02.RectangleNxNStars.pdb
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\6.Homework24.06.2017\02.RectangleNxNStars\obj\Debug\02.RectangleNxNStars.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\6.Homework24.06.2017\02.RectangleNxNStars\obj\Debug\02.RectangleNxNStars.pdb

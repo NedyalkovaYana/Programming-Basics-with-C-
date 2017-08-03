@@ -1,0 +1,6 @@
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\OldExam26.03.2016\2.PipesInThePool\bin\Debug\2.PipesInThePool.exe.config
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\OldExam26.03.2016\2.PipesInThePool\bin\Debug\2.PipesInThePool.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\OldExam26.03.2016\2.PipesInThePool\bin\Debug\2.PipesInThePool.pdb
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\OldExam26.03.2016\2.PipesInThePool\obj\Debug\2.PipesInThePool.csprojResolveAssemblyReference.cache
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\OldExam26.03.2016\2.PipesInThePool\obj\Debug\2.PipesInThePool.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\OldExam26.03.2016\2.PipesInThePool\obj\Debug\2.PipesInThePool.pdb

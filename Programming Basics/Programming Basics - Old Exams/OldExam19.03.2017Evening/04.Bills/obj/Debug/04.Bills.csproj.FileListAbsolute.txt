@@ -1,0 +1,6 @@
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\OldExam19.03.2017Evening\04.Bills\bin\Debug\04.Bills.exe.config
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\OldExam19.03.2017Evening\04.Bills\bin\Debug\04.Bills.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\OldExam19.03.2017Evening\04.Bills\bin\Debug\04.Bills.pdb
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\OldExam19.03.2017Evening\04.Bills\obj\Debug\04.Bills.csprojResolveAssemblyReference.cache
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\OldExam19.03.2017Evening\04.Bills\obj\Debug\04.Bills.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\OldExam19.03.2017Evening\04.Bills\obj\Debug\04.Bills.pdb

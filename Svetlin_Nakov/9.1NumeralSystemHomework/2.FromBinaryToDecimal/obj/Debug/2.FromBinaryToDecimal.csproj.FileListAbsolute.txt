@@ -1,0 +1,5 @@
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\NumeralSystemHomework\2.FromBinaryToDecimal\bin\Debug\2.FromBinaryToDecimal.exe.config
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\NumeralSystemHomework\2.FromBinaryToDecimal\bin\Debug\2.FromBinaryToDecimal.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\NumeralSystemHomework\2.FromBinaryToDecimal\bin\Debug\2.FromBinaryToDecimal.pdb
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\NumeralSystemHomework\2.FromBinaryToDecimal\obj\Debug\2.FromBinaryToDecimal.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\NumeralSystemHomework\2.FromBinaryToDecimal\obj\Debug\2.FromBinaryToDecimal.pdb

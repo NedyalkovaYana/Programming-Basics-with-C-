@@ -1,0 +1,6 @@
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\OldExam_20.11.2016Evning\04.Logistics\bin\Debug\04.Logistics.exe.config
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\OldExam_20.11.2016Evning\04.Logistics\bin\Debug\04.Logistics.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\OldExam_20.11.2016Evning\04.Logistics\bin\Debug\04.Logistics.pdb
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\OldExam_20.11.2016Evning\04.Logistics\obj\Debug\04.Logistics.csprojResolveAssemblyReference.cache
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\OldExam_20.11.2016Evning\04.Logistics\obj\Debug\04.Logistics.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\OldExam_20.11.2016Evning\04.Logistics\obj\Debug\04.Logistics.pdb

@@ -1,0 +1,5 @@
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Methods\5.PrintTriangle\bin\Debug\5.PrintTriangle.exe.config
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Methods\5.PrintTriangle\bin\Debug\5.PrintTriangle.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Methods\5.PrintTriangle\bin\Debug\5.PrintTriangle.pdb
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Methods\5.PrintTriangle\obj\Debug\5.PrintTriangle.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Methods\5.PrintTriangle\obj\Debug\5.PrintTriangle.pdb

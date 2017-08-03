@@ -1,0 +1,6 @@
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2015\Projects\3TemaOperators\2.logicalOperators\bin\Debug\2.logicalOperators.exe.config
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2015\Projects\3TemaOperators\2.logicalOperators\bin\Debug\2.logicalOperators.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2015\Projects\3TemaOperators\2.logicalOperators\bin\Debug\2.logicalOperators.pdb
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2015\Projects\3TemaOperators\2.logicalOperators\obj\Debug\2.logicalOperators.csprojResolveAssemblyReference.cache
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2015\Projects\3TemaOperators\2.logicalOperators\obj\Debug\2.logicalOperators.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2015\Projects\3TemaOperators\2.logicalOperators\obj\Debug\2.logicalOperators.pdb

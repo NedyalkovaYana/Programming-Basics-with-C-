@@ -1,0 +1,5 @@
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\SampleCoding101ExamJan2016\02.Bricks\bin\Debug\02.Bricks.exe.config
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\SampleCoding101ExamJan2016\02.Bricks\bin\Debug\02.Bricks.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\SampleCoding101ExamJan2016\02.Bricks\bin\Debug\02.Bricks.pdb
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\SampleCoding101ExamJan2016\02.Bricks\obj\Debug\02.Bricks.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\SampleCoding101ExamJan2016\02.Bricks\obj\Debug\02.Bricks.pdb

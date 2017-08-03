@@ -1,0 +1,5 @@
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Programming Basics\Programming Basics - Old Exams\TrainingForExam\15\bin\Debug\15.exe.config
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Programming Basics\Programming Basics - Old Exams\TrainingForExam\15\bin\Debug\15.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Programming Basics\Programming Basics - Old Exams\TrainingForExam\15\bin\Debug\15.pdb
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Programming Basics\Programming Basics - Old Exams\TrainingForExam\15\obj\Debug\15.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Programming Basics\Programming Basics - Old Exams\TrainingForExam\15\obj\Debug\15.pdb

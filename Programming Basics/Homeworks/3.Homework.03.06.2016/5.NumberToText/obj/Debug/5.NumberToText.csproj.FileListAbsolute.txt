@@ -1,0 +1,5 @@
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Lecture3SoftUni\5.NumberToText\bin\Debug\5.NumberToText.exe.config
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Lecture3SoftUni\5.NumberToText\bin\Debug\5.NumberToText.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Lecture3SoftUni\5.NumberToText\bin\Debug\5.NumberToText.pdb
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Lecture3SoftUni\5.NumberToText\obj\Debug\5.NumberToText.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Lecture3SoftUni\5.NumberToText\obj\Debug\5.NumberToText.pdb

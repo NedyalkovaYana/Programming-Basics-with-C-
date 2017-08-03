@@ -1,0 +1,6 @@
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\SoftUni\OldExam17.05.2017\6.NumberGenerator\bin\Debug\6.NumberGenerator.exe.config
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\SoftUni\OldExam17.05.2017\6.NumberGenerator\bin\Debug\6.NumberGenerator.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\SoftUni\OldExam17.05.2017\6.NumberGenerator\bin\Debug\6.NumberGenerator.pdb
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\SoftUni\OldExam17.05.2017\6.NumberGenerator\obj\Debug\6.NumberGenerator.csprojResolveAssemblyReference.cache
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\SoftUni\OldExam17.05.2017\6.NumberGenerator\obj\Debug\6.NumberGenerator.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\SoftUni\OldExam17.05.2017\6.NumberGenerator\obj\Debug\6.NumberGenerator.pdb

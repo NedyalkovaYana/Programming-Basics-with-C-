@@ -1,0 +1,6 @@
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2015\Projects\2.HomeworkOperators\12.OperatorsModifiedValue\bin\Debug\12.OperatorsModifiedValue.exe.config
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2015\Projects\2.HomeworkOperators\12.OperatorsModifiedValue\bin\Debug\12.OperatorsModifiedValue.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2015\Projects\2.HomeworkOperators\12.OperatorsModifiedValue\bin\Debug\12.OperatorsModifiedValue.pdb
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2015\Projects\2.HomeworkOperators\12.OperatorsModifiedValue\obj\Debug\12.OperatorsModifiedValue.csprojResolveAssemblyReference.cache
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2015\Projects\2.HomeworkOperators\12.OperatorsModifiedValue\obj\Debug\12.OperatorsModifiedValue.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2015\Projects\2.HomeworkOperators\12.OperatorsModifiedValue\obj\Debug\12.OperatorsModifiedValue.pdb

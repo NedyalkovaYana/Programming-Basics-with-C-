@@ -1,0 +1,4 @@
+C:\Users\Boris Kovachev\Documents\Visual Studio 2015\Projects\HelloCSharp\FloatingPointCalc\bin\Debug\FloatingPointCalc.exe
+C:\Users\Boris Kovachev\Documents\Visual Studio 2015\Projects\HelloCSharp\FloatingPointCalc\bin\Debug\FloatingPointCalc.pdb
+C:\Users\Boris Kovachev\Documents\Visual Studio 2015\Projects\HelloCSharp\FloatingPointCalc\obj\Debug\FloatingPointCalc.exe
+C:\Users\Boris Kovachev\Documents\Visual Studio 2015\Projects\HelloCSharp\FloatingPointCalc\obj\Debug\FloatingPointCalc.pdb

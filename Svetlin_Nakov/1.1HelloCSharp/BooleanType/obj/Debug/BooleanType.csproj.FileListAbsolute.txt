@@ -1,0 +1,5 @@
+C:\Users\Boris Kovachev\Documents\Visual Studio 2015\Projects\HelloCSharp\BooleanType\bin\Debug\BooleanType.exe
+C:\Users\Boris Kovachev\Documents\Visual Studio 2015\Projects\HelloCSharp\BooleanType\bin\Debug\BooleanType.pdb
+C:\Users\Boris Kovachev\Documents\Visual Studio 2015\Projects\HelloCSharp\BooleanType\obj\Debug\BooleanType.csprojResolveAssemblyReference.cache
+C:\Users\Boris Kovachev\Documents\Visual Studio 2015\Projects\HelloCSharp\BooleanType\obj\Debug\BooleanType.exe
+C:\Users\Boris Kovachev\Documents\Visual Studio 2015\Projects\HelloCSharp\BooleanType\obj\Debug\BooleanType.pdb

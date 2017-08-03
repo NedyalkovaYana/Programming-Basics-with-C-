@@ -1,0 +1,6 @@
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\OldExam19.03.2017Evening\02.Styrofoam\bin\Debug\02.Styrofoam.exe.config
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\OldExam19.03.2017Evening\02.Styrofoam\bin\Debug\02.Styrofoam.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\OldExam19.03.2017Evening\02.Styrofoam\bin\Debug\02.Styrofoam.pdb
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\OldExam19.03.2017Evening\02.Styrofoam\obj\Debug\02.Styrofoam.csprojResolveAssemblyReference.cache
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\OldExam19.03.2017Evening\02.Styrofoam\obj\Debug\02.Styrofoam.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\OldExam19.03.2017Evening\02.Styrofoam\obj\Debug\02.Styrofoam.pdb

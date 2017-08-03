@@ -1,0 +1,6 @@
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2015\Projects\5.LectureHomework\5.SwitchStatment\bin\Debug\5.SwitchStatment.exe.config
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2015\Projects\5.LectureHomework\5.SwitchStatment\obj\Debug\5.SwitchStatment.csprojResolveAssemblyReference.cache
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2015\Projects\5.LectureHomework\5.SwitchStatment\bin\Debug\5.SwitchStatment.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2015\Projects\5.LectureHomework\5.SwitchStatment\bin\Debug\5.SwitchStatment.pdb
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2015\Projects\5.LectureHomework\5.SwitchStatment\obj\Debug\5.SwitchStatment.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2015\Projects\5.LectureHomework\5.SwitchStatment\obj\Debug\5.SwitchStatment.pdb

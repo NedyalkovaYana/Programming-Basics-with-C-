@@ -1,0 +1,6 @@
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Svetlin_Nakov\7.Array\12.PrintLetterIndex\bin\Debug\12.PrintLetterIndex.exe.config
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Svetlin_Nakov\7.Array\12.PrintLetterIndex\bin\Debug\12.PrintLetterIndex.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Svetlin_Nakov\7.Array\12.PrintLetterIndex\bin\Debug\12.PrintLetterIndex.pdb
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Svetlin_Nakov\7.Array\12.PrintLetterIndex\obj\Debug\12.PrintLetterIndex.csprojResolveAssemblyReference.cache
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Svetlin_Nakov\7.Array\12.PrintLetterIndex\obj\Debug\12.PrintLetterIndex.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Svetlin_Nakov\7.Array\12.PrintLetterIndex\obj\Debug\12.PrintLetterIndex.pdb

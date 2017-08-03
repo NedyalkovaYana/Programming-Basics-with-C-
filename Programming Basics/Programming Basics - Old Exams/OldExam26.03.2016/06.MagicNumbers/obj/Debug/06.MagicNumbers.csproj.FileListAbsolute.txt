@@ -1,0 +1,5 @@
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\OldExam26.03.2016\06.MagicNumbers\bin\Debug\06.MagicNumbers.exe.config
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\OldExam26.03.2016\06.MagicNumbers\bin\Debug\06.MagicNumbers.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\OldExam26.03.2016\06.MagicNumbers\bin\Debug\06.MagicNumbers.pdb
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\OldExam26.03.2016\06.MagicNumbers\obj\Debug\06.MagicNumbers.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\OldExam26.03.2016\06.MagicNumbers\obj\Debug\06.MagicNumbers.pdb

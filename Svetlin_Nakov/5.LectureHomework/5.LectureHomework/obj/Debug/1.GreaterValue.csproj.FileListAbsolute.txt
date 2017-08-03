@@ -1,0 +1,6 @@
+c:\users\yana nedyalkova\documents\visual studio 2015\Projects\5.LectureHomework\5.LectureHomework\bin\Debug\5.LectureHomework.exe.config
+c:\users\yana nedyalkova\documents\visual studio 2015\Projects\5.LectureHomework\5.LectureHomework\bin\Debug\5.LectureHomework.exe
+c:\users\yana nedyalkova\documents\visual studio 2015\Projects\5.LectureHomework\5.LectureHomework\bin\Debug\5.LectureHomework.pdb
+c:\users\yana nedyalkova\documents\visual studio 2015\Projects\5.LectureHomework\5.LectureHomework\obj\Debug\1.GreaterValue.csprojResolveAssemblyReference.cache
+c:\users\yana nedyalkova\documents\visual studio 2015\Projects\5.LectureHomework\5.LectureHomework\obj\Debug\5.LectureHomework.exe
+c:\users\yana nedyalkova\documents\visual studio 2015\Projects\5.LectureHomework\5.LectureHomework\obj\Debug\5.LectureHomework.pdb

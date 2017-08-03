@@ -1,0 +1,5 @@
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\MethodsHomework\5.CheckElement\bin\Debug\5.CheckElement.exe.config
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\MethodsHomework\5.CheckElement\bin\Debug\5.CheckElement.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\MethodsHomework\5.CheckElement\bin\Debug\5.CheckElement.pdb
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\MethodsHomework\5.CheckElement\obj\Debug\5.CheckElement.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\MethodsHomework\5.CheckElement\obj\Debug\5.CheckElement.pdb

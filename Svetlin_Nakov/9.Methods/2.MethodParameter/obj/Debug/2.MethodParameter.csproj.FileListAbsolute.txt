@@ -1,0 +1,6 @@
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Methods\2.MethodParameter\bin\Debug\2.MethodParameter.exe.config
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Methods\2.MethodParameter\bin\Debug\2.MethodParameter.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Methods\2.MethodParameter\bin\Debug\2.MethodParameter.pdb
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Methods\2.MethodParameter\obj\Debug\2.MethodParameter.csprojResolveAssemblyReference.cache
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Methods\2.MethodParameter\obj\Debug\2.MethodParameter.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Methods\2.MethodParameter\obj\Debug\2.MethodParameter.pdb

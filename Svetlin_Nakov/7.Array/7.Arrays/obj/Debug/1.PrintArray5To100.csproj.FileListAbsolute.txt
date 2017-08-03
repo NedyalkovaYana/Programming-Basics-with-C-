@@ -1,0 +1,6 @@
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\1.PrintArray5To100\7.Arrays\bin\Debug\7.Arrays.exe.config
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\1.PrintArray5To100\7.Arrays\bin\Debug\7.Arrays.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\1.PrintArray5To100\7.Arrays\bin\Debug\7.Arrays.pdb
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\1.PrintArray5To100\7.Arrays\obj\Debug\1.PrintArray5To100.csprojResolveAssemblyReference.cache
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\1.PrintArray5To100\7.Arrays\obj\Debug\7.Arrays.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\1.PrintArray5To100\7.Arrays\obj\Debug\7.Arrays.pdb

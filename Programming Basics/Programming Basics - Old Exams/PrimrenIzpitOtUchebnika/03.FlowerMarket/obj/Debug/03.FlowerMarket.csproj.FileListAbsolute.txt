@@ -1,0 +1,6 @@
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Programming Basics\Programming Basics - Old Exams\PrimrenIzpitOtUchebnika\03.FlowerMarket\bin\Debug\03.FlowerMarket.exe.config
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Programming Basics\Programming Basics - Old Exams\PrimrenIzpitOtUchebnika\03.FlowerMarket\bin\Debug\03.FlowerMarket.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Programming Basics\Programming Basics - Old Exams\PrimrenIzpitOtUchebnika\03.FlowerMarket\bin\Debug\03.FlowerMarket.pdb
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Programming Basics\Programming Basics - Old Exams\PrimrenIzpitOtUchebnika\03.FlowerMarket\obj\Debug\03.FlowerMarket.csprojResolveAssemblyReference.cache
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Programming Basics\Programming Basics - Old Exams\PrimrenIzpitOtUchebnika\03.FlowerMarket\obj\Debug\03.FlowerMarket.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Programming Basics\Programming Basics - Old Exams\PrimrenIzpitOtUchebnika\03.FlowerMarket\obj\Debug\03.FlowerMarket.pdb

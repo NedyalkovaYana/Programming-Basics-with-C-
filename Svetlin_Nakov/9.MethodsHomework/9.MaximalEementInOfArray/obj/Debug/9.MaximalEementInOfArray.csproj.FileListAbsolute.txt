@@ -1,0 +1,6 @@
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\MethodsHomework\9.MaximalEementInOfArray\bin\Debug\9.MaximalEementInOfArray.exe.config
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\MethodsHomework\9.MaximalEementInOfArray\bin\Debug\9.MaximalEementInOfArray.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\MethodsHomework\9.MaximalEementInOfArray\bin\Debug\9.MaximalEementInOfArray.pdb
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\MethodsHomework\9.MaximalEementInOfArray\obj\Debug\9.MaximalEementInOfArray.csprojResolveAssemblyReference.cache
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\MethodsHomework\9.MaximalEementInOfArray\obj\Debug\9.MaximalEementInOfArray.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\MethodsHomework\9.MaximalEementInOfArray\obj\Debug\9.MaximalEementInOfArray.pdb

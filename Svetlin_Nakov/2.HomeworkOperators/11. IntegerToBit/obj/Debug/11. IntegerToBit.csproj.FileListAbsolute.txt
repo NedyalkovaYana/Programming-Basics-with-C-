@@ -1,0 +1,6 @@
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2015\Projects\2.HomeworkOperators\11. IntegerToBit\bin\Debug\_11.IntegerToBit.exe.config
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2015\Projects\2.HomeworkOperators\11. IntegerToBit\bin\Debug\_11.IntegerToBit.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2015\Projects\2.HomeworkOperators\11. IntegerToBit\bin\Debug\_11.IntegerToBit.pdb
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2015\Projects\2.HomeworkOperators\11. IntegerToBit\obj\Debug\11. IntegerToBit.csprojResolveAssemblyReference.cache
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2015\Projects\2.HomeworkOperators\11. IntegerToBit\obj\Debug\_11.IntegerToBit.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2015\Projects\2.HomeworkOperators\11. IntegerToBit\obj\Debug\_11.IntegerToBit.pdb

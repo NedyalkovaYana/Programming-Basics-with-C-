@@ -1,0 +1,5 @@
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\SimpleCalculation\6.AreaAndPerimeter\bin\Debug\6.AreaAndPerimeter.exe.config
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\SimpleCalculation\6.AreaAndPerimeter\bin\Debug\6.AreaAndPerimeter.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\SimpleCalculation\6.AreaAndPerimeter\bin\Debug\6.AreaAndPerimeter.pdb
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\SimpleCalculation\6.AreaAndPerimeter\obj\Debug\6.AreaAndPerimeter.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\SimpleCalculation\6.AreaAndPerimeter\obj\Debug\6.AreaAndPerimeter.pdb

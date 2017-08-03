@@ -1,0 +1,6 @@
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2015\Projects\4.LectureHomework\4.LectureHomework\bin\Debug\4.LectureHomework.exe.config
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2015\Projects\4.LectureHomework\4.LectureHomework\obj\Debug\1.PrintSum.csprojResolveAssemblyReference.cache
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2015\Projects\4.LectureHomework\4.LectureHomework\bin\Debug\4.LectureHomework.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2015\Projects\4.LectureHomework\4.LectureHomework\bin\Debug\4.LectureHomework.pdb
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2015\Projects\4.LectureHomework\4.LectureHomework\obj\Debug\4.LectureHomework.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2015\Projects\4.LectureHomework\4.LectureHomework\obj\Debug\4.LectureHomework.pdb

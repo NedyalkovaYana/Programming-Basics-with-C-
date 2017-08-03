@@ -1,0 +1,5 @@
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2015\Projects\4.LectureHomework\2.CalcAreaAndPerimeter\bin\Debug\2.CalcAreaAndPerimeter.exe.config
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2015\Projects\4.LectureHomework\2.CalcAreaAndPerimeter\bin\Debug\2.CalcAreaAndPerimeter.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2015\Projects\4.LectureHomework\2.CalcAreaAndPerimeter\bin\Debug\2.CalcAreaAndPerimeter.pdb
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2015\Projects\4.LectureHomework\2.CalcAreaAndPerimeter\obj\Debug\2.CalcAreaAndPerimeter.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2015\Projects\4.LectureHomework\2.CalcAreaAndPerimeter\obj\Debug\2.CalcAreaAndPerimeter.pdb

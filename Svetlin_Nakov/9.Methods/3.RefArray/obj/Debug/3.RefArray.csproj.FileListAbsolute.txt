@@ -1,0 +1,6 @@
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Methods\3.RefArray\bin\Debug\3.RefArray.exe.config
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Methods\3.RefArray\bin\Debug\3.RefArray.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Methods\3.RefArray\bin\Debug\3.RefArray.pdb
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Methods\3.RefArray\obj\Debug\3.RefArray.csprojResolveAssemblyReference.cache
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Methods\3.RefArray\obj\Debug\3.RefArray.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Methods\3.RefArray\obj\Debug\3.RefArray.pdb

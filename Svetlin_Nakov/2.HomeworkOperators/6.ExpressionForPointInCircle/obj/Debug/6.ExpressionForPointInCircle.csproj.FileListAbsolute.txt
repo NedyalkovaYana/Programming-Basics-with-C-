@@ -1,0 +1,6 @@
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2015\Projects\2.HomeworkOperators\6.ExpressionForPointInCircle\bin\Debug\6.ExpressionForPointInCircle.exe.config
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2015\Projects\2.HomeworkOperators\6.ExpressionForPointInCircle\obj\Debug\6.ExpressionForPointInCircle.csprojResolveAssemblyReference.cache
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2015\Projects\2.HomeworkOperators\6.ExpressionForPointInCircle\bin\Debug\6.ExpressionForPointInCircle.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2015\Projects\2.HomeworkOperators\6.ExpressionForPointInCircle\bin\Debug\6.ExpressionForPointInCircle.pdb
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2015\Projects\2.HomeworkOperators\6.ExpressionForPointInCircle\obj\Debug\6.ExpressionForPointInCircle.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2015\Projects\2.HomeworkOperators\6.ExpressionForPointInCircle\obj\Debug\6.ExpressionForPointInCircle.pdb

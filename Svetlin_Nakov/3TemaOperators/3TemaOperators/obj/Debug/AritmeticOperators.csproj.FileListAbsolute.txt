@@ -1,0 +1,6 @@
+c:\users\yana nedyalkova\documents\visual studio 2015\Projects\3TemaOperators\3TemaOperators\bin\Debug\3TemaOperators.exe.config
+c:\users\yana nedyalkova\documents\visual studio 2015\Projects\3TemaOperators\3TemaOperators\bin\Debug\3TemaOperators.exe
+c:\users\yana nedyalkova\documents\visual studio 2015\Projects\3TemaOperators\3TemaOperators\bin\Debug\3TemaOperators.pdb
+c:\users\yana nedyalkova\documents\visual studio 2015\Projects\3TemaOperators\3TemaOperators\obj\Debug\AritmeticOperators.csprojResolveAssemblyReference.cache
+c:\users\yana nedyalkova\documents\visual studio 2015\Projects\3TemaOperators\3TemaOperators\obj\Debug\3TemaOperators.exe
+c:\users\yana nedyalkova\documents\visual studio 2015\Projects\3TemaOperators\3TemaOperators\obj\Debug\3TemaOperators.pdb

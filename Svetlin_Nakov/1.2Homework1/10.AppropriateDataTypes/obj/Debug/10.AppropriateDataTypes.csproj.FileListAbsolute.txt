@@ -1,0 +1,6 @@
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2015\Projects\Homework1\10.AppropriateDataTypes\bin\Debug\10.AppropriateDataTypes.exe.config
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2015\Projects\Homework1\10.AppropriateDataTypes\obj\Debug\10.AppropriateDataTypes.csprojResolveAssemblyReference.cache
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2015\Projects\Homework1\10.AppropriateDataTypes\bin\Debug\10.AppropriateDataTypes.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2015\Projects\Homework1\10.AppropriateDataTypes\bin\Debug\10.AppropriateDataTypes.pdb
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2015\Projects\Homework1\10.AppropriateDataTypes\obj\Debug\10.AppropriateDataTypes.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2015\Projects\Homework1\10.AppropriateDataTypes\obj\Debug\10.AppropriateDataTypes.pdb

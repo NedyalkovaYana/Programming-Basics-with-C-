@@ -1,0 +1,6 @@
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Svetlin_Nakov\7.Array\11.BinarySearchInArray\bin\Debug\11.BinarySearchInArray.exe.config
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Svetlin_Nakov\7.Array\11.BinarySearchInArray\bin\Debug\11.BinarySearchInArray.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Svetlin_Nakov\7.Array\11.BinarySearchInArray\bin\Debug\11.BinarySearchInArray.pdb
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Svetlin_Nakov\7.Array\11.BinarySearchInArray\obj\Debug\11.BinarySearchInArray.csprojResolveAssemblyReference.cache
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Svetlin_Nakov\7.Array\11.BinarySearchInArray\obj\Debug\11.BinarySearchInArray.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Svetlin_Nakov\7.Array\11.BinarySearchInArray\obj\Debug\11.BinarySearchInArray.pdb

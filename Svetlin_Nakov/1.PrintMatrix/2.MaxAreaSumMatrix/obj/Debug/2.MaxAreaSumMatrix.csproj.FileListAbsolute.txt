@@ -1,0 +1,6 @@
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\1.PrintMatrix\2.MaxAreaSumMatrix\bin\Debug\2.MaxAreaSumMatrix.exe.config
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\1.PrintMatrix\2.MaxAreaSumMatrix\bin\Debug\2.MaxAreaSumMatrix.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\1.PrintMatrix\2.MaxAreaSumMatrix\bin\Debug\2.MaxAreaSumMatrix.pdb
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\1.PrintMatrix\2.MaxAreaSumMatrix\obj\Debug\2.MaxAreaSumMatrix.csprojResolveAssemblyReference.cache
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\1.PrintMatrix\2.MaxAreaSumMatrix\obj\Debug\2.MaxAreaSumMatrix.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\1.PrintMatrix\2.MaxAreaSumMatrix\obj\Debug\2.MaxAreaSumMatrix.pdb

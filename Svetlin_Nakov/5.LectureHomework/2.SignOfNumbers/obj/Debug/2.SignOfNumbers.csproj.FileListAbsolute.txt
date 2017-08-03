@@ -1,0 +1,6 @@
+c:\users\yana nedyalkova\documents\visual studio 2015\Projects\5.LectureHomework\2.SignOfNumbers\bin\Debug\2.SignOfNumbers.exe.config
+c:\users\yana nedyalkova\documents\visual studio 2015\Projects\5.LectureHomework\2.SignOfNumbers\obj\Debug\2.SignOfNumbers.csprojResolveAssemblyReference.cache
+c:\users\yana nedyalkova\documents\visual studio 2015\Projects\5.LectureHomework\2.SignOfNumbers\bin\Debug\2.SignOfNumbers.exe
+c:\users\yana nedyalkova\documents\visual studio 2015\Projects\5.LectureHomework\2.SignOfNumbers\bin\Debug\2.SignOfNumbers.pdb
+c:\users\yana nedyalkova\documents\visual studio 2015\Projects\5.LectureHomework\2.SignOfNumbers\obj\Debug\2.SignOfNumbers.exe
+c:\users\yana nedyalkova\documents\visual studio 2015\Projects\5.LectureHomework\2.SignOfNumbers\obj\Debug\2.SignOfNumbers.pdb

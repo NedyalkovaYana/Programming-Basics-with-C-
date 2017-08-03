@@ -1,0 +1,6 @@
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Lecture3SoftUni\7.SumSeconds\bin\Debug\7.SumSeconds.exe.config
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Lecture3SoftUni\7.SumSeconds\bin\Debug\7.SumSeconds.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Lecture3SoftUni\7.SumSeconds\bin\Debug\7.SumSeconds.pdb
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Lecture3SoftUni\7.SumSeconds\obj\Debug\7.SumSeconds.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Lecture3SoftUni\7.SumSeconds\obj\Debug\7.SumSeconds.pdb
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Lecture3SoftUni\7.SumSeconds\obj\Debug\7.SumSeconds.csprojResolveAssemblyReference.cache

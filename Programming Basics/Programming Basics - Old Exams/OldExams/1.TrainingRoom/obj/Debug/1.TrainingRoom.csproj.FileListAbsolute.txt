@@ -1,0 +1,6 @@
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\OldExams\1.TrainingRoom\bin\Debug\1.TrainingRoom.exe.config
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\OldExams\1.TrainingRoom\bin\Debug\1.TrainingRoom.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\OldExams\1.TrainingRoom\bin\Debug\1.TrainingRoom.pdb
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\OldExams\1.TrainingRoom\obj\Debug\1.TrainingRoom.csprojResolveAssemblyReference.cache
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\OldExams\1.TrainingRoom\obj\Debug\1.TrainingRoom.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\OldExams\1.TrainingRoom\obj\Debug\1.TrainingRoom.pdb

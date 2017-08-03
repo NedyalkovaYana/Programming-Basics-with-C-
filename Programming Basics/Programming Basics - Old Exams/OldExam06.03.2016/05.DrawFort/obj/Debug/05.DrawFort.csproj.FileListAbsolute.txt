@@ -1,0 +1,6 @@
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\OldExam06.03.2016\05.DrawFort\bin\Debug\05.DrawFort.exe.config
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\OldExam06.03.2016\05.DrawFort\bin\Debug\05.DrawFort.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\OldExam06.03.2016\05.DrawFort\bin\Debug\05.DrawFort.pdb
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\OldExam06.03.2016\05.DrawFort\obj\Debug\05.DrawFort.csprojResolveAssemblyReference.cache
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\OldExam06.03.2016\05.DrawFort\obj\Debug\05.DrawFort.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\OldExam06.03.2016\05.DrawFort\obj\Debug\05.DrawFort.pdb

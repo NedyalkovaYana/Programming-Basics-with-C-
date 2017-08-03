@@ -1,0 +1,6 @@
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Svetlin_Nakov\7.Array\10.SequenceOfgivenSum\bin\Debug\10.SequenceOfgivenSum.exe.config
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Svetlin_Nakov\7.Array\10.SequenceOfgivenSum\bin\Debug\10.SequenceOfgivenSum.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Svetlin_Nakov\7.Array\10.SequenceOfgivenSum\bin\Debug\10.SequenceOfgivenSum.pdb
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Svetlin_Nakov\7.Array\10.SequenceOfgivenSum\obj\Debug\10.SequenceOfgivenSum.csprojResolveAssemblyReference.cache
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Svetlin_Nakov\7.Array\10.SequenceOfgivenSum\obj\Debug\10.SequenceOfgivenSum.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Svetlin_Nakov\7.Array\10.SequenceOfgivenSum\obj\Debug\10.SequenceOfgivenSum.pdb

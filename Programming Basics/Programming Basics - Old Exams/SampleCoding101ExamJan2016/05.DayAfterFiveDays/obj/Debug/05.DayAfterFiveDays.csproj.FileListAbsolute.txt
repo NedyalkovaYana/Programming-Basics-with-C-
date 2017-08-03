@@ -1,0 +1,6 @@
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\SampleCoding101ExamJan2016\05.DayAfterFiveDays\bin\Debug\05.DayAfterFiveDays.exe.config
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\SampleCoding101ExamJan2016\05.DayAfterFiveDays\bin\Debug\05.DayAfterFiveDays.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\SampleCoding101ExamJan2016\05.DayAfterFiveDays\bin\Debug\05.DayAfterFiveDays.pdb
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\SampleCoding101ExamJan2016\05.DayAfterFiveDays\obj\Debug\05.DayAfterFiveDays.csprojResolveAssemblyReference.cache
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\SampleCoding101ExamJan2016\05.DayAfterFiveDays\obj\Debug\05.DayAfterFiveDays.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\SampleCoding101ExamJan2016\05.DayAfterFiveDays\obj\Debug\05.DayAfterFiveDays.pdb

@@ -1,0 +1,6 @@
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2015\Projects\2.HomeworkOperators\7. CheckPrimeNumber\bin\Debug\_7.CheckPrimeNumber.exe.config
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2015\Projects\2.HomeworkOperators\7. CheckPrimeNumber\obj\Debug\7. CheckPrimeNumber.csprojResolveAssemblyReference.cache
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2015\Projects\2.HomeworkOperators\7. CheckPrimeNumber\bin\Debug\_7.CheckPrimeNumber.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2015\Projects\2.HomeworkOperators\7. CheckPrimeNumber\bin\Debug\_7.CheckPrimeNumber.pdb
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2015\Projects\2.HomeworkOperators\7. CheckPrimeNumber\obj\Debug\_7.CheckPrimeNumber.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2015\Projects\2.HomeworkOperators\7. CheckPrimeNumber\obj\Debug\_7.CheckPrimeNumber.pdb

@@ -1,0 +1,5 @@
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2015\Projects\4.LectureHomework\10.CalculateSumWithAccuracy\bin\Debug\10.CalculateSumWithAccuracy.exe.config
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2015\Projects\4.LectureHomework\10.CalculateSumWithAccuracy\bin\Debug\10.CalculateSumWithAccuracy.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2015\Projects\4.LectureHomework\10.CalculateSumWithAccuracy\bin\Debug\10.CalculateSumWithAccuracy.pdb
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2015\Projects\4.LectureHomework\10.CalculateSumWithAccuracy\obj\Debug\10.CalculateSumWithAccuracy.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2015\Projects\4.LectureHomework\10.CalculateSumWithAccuracy\obj\Debug\10.CalculateSumWithAccuracy.pdb

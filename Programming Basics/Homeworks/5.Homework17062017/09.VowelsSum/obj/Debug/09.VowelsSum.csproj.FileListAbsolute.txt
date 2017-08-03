@@ -1,0 +1,5 @@
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\5.Homework17062017\09.VowelsSum\bin\Debug\09.VowelsSum.exe.config
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\5.Homework17062017\09.VowelsSum\bin\Debug\09.VowelsSum.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\5.Homework17062017\09.VowelsSum\bin\Debug\09.VowelsSum.pdb
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\5.Homework17062017\09.VowelsSum\obj\Debug\09.VowelsSum.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\5.Homework17062017\09.VowelsSum\obj\Debug\09.VowelsSum.pdb

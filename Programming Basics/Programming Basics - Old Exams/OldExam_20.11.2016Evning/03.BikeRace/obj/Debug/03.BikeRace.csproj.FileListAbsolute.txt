@@ -1,0 +1,5 @@
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\OldExam_20.11.2016Evning\03.BikeRace\bin\Debug\03.BikeRace.exe.config
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\OldExam_20.11.2016Evning\03.BikeRace\bin\Debug\03.BikeRace.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\OldExam_20.11.2016Evning\03.BikeRace\bin\Debug\03.BikeRace.pdb
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\OldExam_20.11.2016Evning\03.BikeRace\obj\Debug\03.BikeRace.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\OldExam_20.11.2016Evning\03.BikeRace\obj\Debug\03.BikeRace.pdb

@@ -1,0 +1,6 @@
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\OldExam_18.03.2017\01.DogHouse\bin\Debug\01.DogHouse.exe.config
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\OldExam_18.03.2017\01.DogHouse\bin\Debug\01.DogHouse.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\OldExam_18.03.2017\01.DogHouse\bin\Debug\01.DogHouse.pdb
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\OldExam_18.03.2017\01.DogHouse\obj\Debug\01.DogHouse.csprojResolveAssemblyReference.cache
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\OldExam_18.03.2017\01.DogHouse\obj\Debug\01.DogHouse.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\OldExam_18.03.2017\01.DogHouse\obj\Debug\01.DogHouse.pdb

@@ -1,0 +1,6 @@
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\1.ExampleMatrix\4.Jagged2\bin\Debug\4.Jagged2.exe.config
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\1.ExampleMatrix\4.Jagged2\bin\Debug\4.Jagged2.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\1.ExampleMatrix\4.Jagged2\bin\Debug\4.Jagged2.pdb
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\1.ExampleMatrix\4.Jagged2\obj\Debug\4.Jagged2.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\1.ExampleMatrix\4.Jagged2\obj\Debug\4.Jagged2.pdb
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\1.ExampleMatrix\4.Jagged2\obj\Debug\4.Jagged2.csprojResolveAssemblyReference.cache

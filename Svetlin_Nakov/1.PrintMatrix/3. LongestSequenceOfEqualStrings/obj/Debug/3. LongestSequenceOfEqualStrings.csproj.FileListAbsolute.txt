@@ -1,0 +1,6 @@
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\1.PrintMatrix\3. LongestSequenceOfEqualStrings\obj\Debug\3. LongestSequenceOfEqualStrings.csprojResolveAssemblyReference.cache
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\1.PrintMatrix\3. LongestSequenceOfEqualStrings\bin\Debug\_3.LongestSequenceOfEqualStrings.exe.config
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\1.PrintMatrix\3. LongestSequenceOfEqualStrings\bin\Debug\_3.LongestSequenceOfEqualStrings.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\1.PrintMatrix\3. LongestSequenceOfEqualStrings\bin\Debug\_3.LongestSequenceOfEqualStrings.pdb
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\1.PrintMatrix\3. LongestSequenceOfEqualStrings\obj\Debug\_3.LongestSequenceOfEqualStrings.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\1.PrintMatrix\3. LongestSequenceOfEqualStrings\obj\Debug\_3.LongestSequenceOfEqualStrings.pdb

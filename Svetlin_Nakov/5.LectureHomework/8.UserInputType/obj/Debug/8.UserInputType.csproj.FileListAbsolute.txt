@@ -1,0 +1,6 @@
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2015\Projects\5.LectureHomework\8.UserInputType\bin\Debug\8.UserInputType.exe.config
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2015\Projects\5.LectureHomework\8.UserInputType\obj\Debug\8.UserInputType.csprojResolveAssemblyReference.cache
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2015\Projects\5.LectureHomework\8.UserInputType\bin\Debug\8.UserInputType.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2015\Projects\5.LectureHomework\8.UserInputType\bin\Debug\8.UserInputType.pdb
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2015\Projects\5.LectureHomework\8.UserInputType\obj\Debug\8.UserInputType.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2015\Projects\5.LectureHomework\8.UserInputType\obj\Debug\8.UserInputType.pdb

@@ -1,0 +1,6 @@
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\SampleCoding101ExamJan2016\06.Sums3Numbers\bin\Debug\06.Sums3Numbers.exe.config
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\SampleCoding101ExamJan2016\06.Sums3Numbers\bin\Debug\06.Sums3Numbers.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\SampleCoding101ExamJan2016\06.Sums3Numbers\bin\Debug\06.Sums3Numbers.pdb
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\SampleCoding101ExamJan2016\06.Sums3Numbers\obj\Debug\06.Sums3Numbers.csprojResolveAssemblyReference.cache
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\SampleCoding101ExamJan2016\06.Sums3Numbers\obj\Debug\06.Sums3Numbers.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\SampleCoding101ExamJan2016\06.Sums3Numbers\obj\Debug\06.Sums3Numbers.pdb

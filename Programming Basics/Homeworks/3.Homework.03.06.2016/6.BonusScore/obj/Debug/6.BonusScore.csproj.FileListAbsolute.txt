@@ -1,0 +1,6 @@
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Lecture3SoftUni\6.BonusScore\bin\Debug\6.BonusScore.exe.config
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Lecture3SoftUni\6.BonusScore\bin\Debug\6.BonusScore.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Lecture3SoftUni\6.BonusScore\bin\Debug\6.BonusScore.pdb
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Lecture3SoftUni\6.BonusScore\obj\Debug\6.BonusScore.csprojResolveAssemblyReference.cache
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Lecture3SoftUni\6.BonusScore\obj\Debug\6.BonusScore.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Lecture3SoftUni\6.BonusScore\obj\Debug\6.BonusScore.pdb

@@ -1,0 +1,6 @@
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Svetlin_Nakov\7.Array\8.MaximalSumInArray\bin\Debug\8.MaximalSumInArray.exe.config
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Svetlin_Nakov\7.Array\8.MaximalSumInArray\bin\Debug\8.MaximalSumInArray.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Svetlin_Nakov\7.Array\8.MaximalSumInArray\bin\Debug\8.MaximalSumInArray.pdb
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Svetlin_Nakov\7.Array\8.MaximalSumInArray\obj\Debug\8.MaximalSumInArray.csprojResolveAssemblyReference.cache
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Svetlin_Nakov\7.Array\8.MaximalSumInArray\obj\Debug\8.MaximalSumInArray.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Svetlin_Nakov\7.Array\8.MaximalSumInArray\obj\Debug\8.MaximalSumInArray.pdb

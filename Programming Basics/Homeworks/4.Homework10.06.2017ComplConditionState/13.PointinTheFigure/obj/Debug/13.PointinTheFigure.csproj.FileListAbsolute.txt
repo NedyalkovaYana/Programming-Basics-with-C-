@@ -1,0 +1,6 @@
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\4.Homework10.06.2017ComplConditionState\13.PointinTheFigure\bin\Debug\13.PointinTheFigure.exe.config
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\4.Homework10.06.2017ComplConditionState\13.PointinTheFigure\bin\Debug\13.PointinTheFigure.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\4.Homework10.06.2017ComplConditionState\13.PointinTheFigure\bin\Debug\13.PointinTheFigure.pdb
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\4.Homework10.06.2017ComplConditionState\13.PointinTheFigure\obj\Debug\13.PointinTheFigure.csprojResolveAssemblyReference.cache
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\4.Homework10.06.2017ComplConditionState\13.PointinTheFigure\obj\Debug\13.PointinTheFigure.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\4.Homework10.06.2017ComplConditionState\13.PointinTheFigure\obj\Debug\13.PointinTheFigure.pdb

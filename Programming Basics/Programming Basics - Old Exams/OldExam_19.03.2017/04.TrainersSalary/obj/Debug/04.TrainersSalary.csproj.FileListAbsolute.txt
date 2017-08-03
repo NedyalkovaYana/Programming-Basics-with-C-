@@ -1,0 +1,6 @@
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\OldExam_19.03.2017\04.TrainersSalary\bin\Debug\04.TrainersSalary.exe.config
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\OldExam_19.03.2017\04.TrainersSalary\bin\Debug\04.TrainersSalary.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\OldExam_19.03.2017\04.TrainersSalary\bin\Debug\04.TrainersSalary.pdb
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\OldExam_19.03.2017\04.TrainersSalary\obj\Debug\04.TrainersSalary.csprojResolveAssemblyReference.cache
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\OldExam_19.03.2017\04.TrainersSalary\obj\Debug\04.TrainersSalary.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\OldExam_19.03.2017\04.TrainersSalary\obj\Debug\04.TrainersSalary.pdb

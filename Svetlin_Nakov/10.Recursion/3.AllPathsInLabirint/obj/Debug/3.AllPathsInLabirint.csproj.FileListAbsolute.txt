@@ -1,0 +1,6 @@
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\10.Recursion\3.AllPathsInLabirint\bin\Debug\3.AllPathsInLabirint.exe.config
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\10.Recursion\3.AllPathsInLabirint\bin\Debug\3.AllPathsInLabirint.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\10.Recursion\3.AllPathsInLabirint\bin\Debug\3.AllPathsInLabirint.pdb
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\10.Recursion\3.AllPathsInLabirint\obj\Debug\3.AllPathsInLabirint.csprojResolveAssemblyReference.cache
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\10.Recursion\3.AllPathsInLabirint\obj\Debug\3.AllPathsInLabirint.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\10.Recursion\3.AllPathsInLabirint\obj\Debug\3.AllPathsInLabirint.pdb

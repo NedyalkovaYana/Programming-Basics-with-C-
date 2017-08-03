@@ -1,0 +1,6 @@
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\HomeworkLecture3\HomeworkLecture3\bin\Debug\HomeworkLecture3.exe.config
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\HomeworkLecture3\HomeworkLecture3\bin\Debug\HomeworkLecture3.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\HomeworkLecture3\HomeworkLecture3\bin\Debug\HomeworkLecture3.pdb
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\HomeworkLecture3\HomeworkLecture3\obj\Debug\1.SumNumbers.cs.csprojResolveAssemblyReference.cache
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\HomeworkLecture3\HomeworkLecture3\obj\Debug\HomeworkLecture3.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\HomeworkLecture3\HomeworkLecture3\obj\Debug\HomeworkLecture3.pdb

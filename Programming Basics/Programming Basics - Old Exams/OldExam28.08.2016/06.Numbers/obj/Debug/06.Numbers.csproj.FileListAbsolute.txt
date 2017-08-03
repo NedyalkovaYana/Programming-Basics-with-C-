@@ -1,0 +1,6 @@
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\OldExam28.08.2016\06.Numbers\bin\Debug\06.Numbers.exe.config
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\OldExam28.08.2016\06.Numbers\bin\Debug\06.Numbers.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\OldExam28.08.2016\06.Numbers\bin\Debug\06.Numbers.pdb
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\OldExam28.08.2016\06.Numbers\obj\Debug\06.Numbers.csprojResolveAssemblyReference.cache
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\OldExam28.08.2016\06.Numbers\obj\Debug\06.Numbers.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\OldExam28.08.2016\06.Numbers\obj\Debug\06.Numbers.pdb

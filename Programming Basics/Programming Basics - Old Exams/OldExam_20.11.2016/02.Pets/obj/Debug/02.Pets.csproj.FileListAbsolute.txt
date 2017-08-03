@@ -1,0 +1,6 @@
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\OldExam_20.11.2016\02.Pets\bin\Debug\02.Pets.exe.config
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\OldExam_20.11.2016\02.Pets\bin\Debug\02.Pets.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\OldExam_20.11.2016\02.Pets\bin\Debug\02.Pets.pdb
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\OldExam_20.11.2016\02.Pets\obj\Debug\02.Pets.csprojResolveAssemblyReference.cache
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\OldExam_20.11.2016\02.Pets\obj\Debug\02.Pets.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\OldExam_20.11.2016\02.Pets\obj\Debug\02.Pets.pdb

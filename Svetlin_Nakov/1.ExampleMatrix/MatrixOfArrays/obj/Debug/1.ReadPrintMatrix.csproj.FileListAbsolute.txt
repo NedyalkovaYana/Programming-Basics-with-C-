@@ -1,0 +1,6 @@
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\1.ExampleMatrix\MatrixOfArrays\bin\Debug\MatrixOfArrays.exe.config
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\1.ExampleMatrix\MatrixOfArrays\bin\Debug\MatrixOfArrays.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\1.ExampleMatrix\MatrixOfArrays\bin\Debug\MatrixOfArrays.pdb
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\1.ExampleMatrix\MatrixOfArrays\obj\Debug\1.ReadPrintMatrix.csprojResolveAssemblyReference.cache
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\1.ExampleMatrix\MatrixOfArrays\obj\Debug\MatrixOfArrays.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\1.ExampleMatrix\MatrixOfArrays\obj\Debug\MatrixOfArrays.pdb

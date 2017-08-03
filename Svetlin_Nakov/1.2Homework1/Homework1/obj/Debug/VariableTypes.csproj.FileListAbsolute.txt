@@ -1,0 +1,3 @@
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2015\Projects\Homework1\Homework1\bin\Debug\Homework1.exe.config
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2015\Projects\Homework1\Homework1\obj\Debug\Homework1.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2015\Projects\Homework1\Homework1\obj\Debug\Homework1.pdb

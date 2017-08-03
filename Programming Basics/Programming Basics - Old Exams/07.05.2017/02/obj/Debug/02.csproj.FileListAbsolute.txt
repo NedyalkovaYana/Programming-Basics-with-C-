@@ -1,0 +1,5 @@
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\07.05.2017\02\bin\Debug\02.exe.config
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\07.05.2017\02\bin\Debug\02.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\07.05.2017\02\bin\Debug\02.pdb
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\07.05.2017\02\obj\Debug\02.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\07.05.2017\02\obj\Debug\02.pdb

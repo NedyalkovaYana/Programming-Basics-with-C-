@@ -1,0 +1,6 @@
+c:\users\yana nedyalkova\documents\visual studio 2015\Projects\5.LectureHomework\4.BiggestNumber\bin\Debug\4.BiggestNumber.exe.config
+c:\users\yana nedyalkova\documents\visual studio 2015\Projects\5.LectureHomework\4.BiggestNumber\bin\Debug\4.BiggestNumber.exe
+c:\users\yana nedyalkova\documents\visual studio 2015\Projects\5.LectureHomework\4.BiggestNumber\bin\Debug\4.BiggestNumber.pdb
+c:\users\yana nedyalkova\documents\visual studio 2015\Projects\5.LectureHomework\4.BiggestNumber\obj\Debug\4.Sort3NumbersWithNestedIfs.csprojResolveAssemblyReference.cache
+c:\users\yana nedyalkova\documents\visual studio 2015\Projects\5.LectureHomework\4.BiggestNumber\obj\Debug\4.BiggestNumber.exe
+c:\users\yana nedyalkova\documents\visual studio 2015\Projects\5.LectureHomework\4.BiggestNumber\obj\Debug\4.BiggestNumber.pdb

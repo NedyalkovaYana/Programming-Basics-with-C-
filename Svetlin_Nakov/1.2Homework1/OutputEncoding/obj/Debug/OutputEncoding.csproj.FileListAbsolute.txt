@@ -1,0 +1,6 @@
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2015\Projects\Homework1\OutputEncoding\bin\Debug\OutputEncoding.exe.config
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2015\Projects\Homework1\OutputEncoding\obj\Debug\OutputEncoding.csprojResolveAssemblyReference.cache
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2015\Projects\Homework1\OutputEncoding\bin\Debug\OutputEncoding.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2015\Projects\Homework1\OutputEncoding\bin\Debug\OutputEncoding.pdb
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2015\Projects\Homework1\OutputEncoding\obj\Debug\OutputEncoding.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2015\Projects\Homework1\OutputEncoding\obj\Debug\OutputEncoding.pdb

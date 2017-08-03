@@ -1,0 +1,6 @@
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\10.Recursion\3.Test2\bin\Debug\3.Test2.exe.config
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\10.Recursion\3.Test2\bin\Debug\3.Test2.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\10.Recursion\3.Test2\bin\Debug\3.Test2.pdb
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\10.Recursion\3.Test2\obj\Debug\3.Test2.csprojResolveAssemblyReference.cache
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\10.Recursion\3.Test2\obj\Debug\3.Test2.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\10.Recursion\3.Test2\obj\Debug\3.Test2.pdb

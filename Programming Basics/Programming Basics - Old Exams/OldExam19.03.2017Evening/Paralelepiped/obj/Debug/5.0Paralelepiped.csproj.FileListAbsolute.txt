@@ -1,0 +1,6 @@
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\OldExam19.03.2017Evening\Paralelepiped\bin\Debug\Paralelepiped.exe.config
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\OldExam19.03.2017Evening\Paralelepiped\bin\Debug\Paralelepiped.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\OldExam19.03.2017Evening\Paralelepiped\bin\Debug\Paralelepiped.pdb
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\OldExam19.03.2017Evening\Paralelepiped\obj\Debug\5.0Paralelepiped.csprojResolveAssemblyReference.cache
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\OldExam19.03.2017Evening\Paralelepiped\obj\Debug\Paralelepiped.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\OldExam19.03.2017Evening\Paralelepiped\obj\Debug\Paralelepiped.pdb

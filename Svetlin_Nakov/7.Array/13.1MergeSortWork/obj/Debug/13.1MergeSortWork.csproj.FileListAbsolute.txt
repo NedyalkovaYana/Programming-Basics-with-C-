@@ -1,0 +1,5 @@
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Svetlin_Nakov\7.Array\13.1MergeSortWork\bin\Debug\13.1MergeSortWork.exe.config
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Svetlin_Nakov\7.Array\13.1MergeSortWork\bin\Debug\13.1MergeSortWork.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Svetlin_Nakov\7.Array\13.1MergeSortWork\bin\Debug\13.1MergeSortWork.pdb
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Svetlin_Nakov\7.Array\13.1MergeSortWork\obj\Debug\13.1MergeSortWork.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Svetlin_Nakov\7.Array\13.1MergeSortWork\obj\Debug\13.1MergeSortWork.pdb

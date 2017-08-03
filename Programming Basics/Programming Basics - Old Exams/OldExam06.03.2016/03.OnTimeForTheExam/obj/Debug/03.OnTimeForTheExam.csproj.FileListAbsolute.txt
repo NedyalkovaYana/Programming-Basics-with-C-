@@ -1,0 +1,5 @@
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\OldExam06.03.2016\03.OnTimeForTheExam\bin\Debug\03.OnTimeForTheExam.exe.config
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\OldExam06.03.2016\03.OnTimeForTheExam\bin\Debug\03.OnTimeForTheExam.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\OldExam06.03.2016\03.OnTimeForTheExam\bin\Debug\03.OnTimeForTheExam.pdb
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\OldExam06.03.2016\03.OnTimeForTheExam\obj\Debug\03.OnTimeForTheExam.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\OldExam06.03.2016\03.OnTimeForTheExam\obj\Debug\03.OnTimeForTheExam.pdb

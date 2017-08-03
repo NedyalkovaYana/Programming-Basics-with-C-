@@ -1,0 +1,6 @@
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\OldExam28.08.2016\02Company\obj\Debug\02.Company.csprojResolveAssemblyReference.cache
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\OldExam28.08.2016\02Company\bin\Debug\02Company.exe.config
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\OldExam28.08.2016\02Company\bin\Debug\02Company.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\OldExam28.08.2016\02Company\bin\Debug\02Company.pdb
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\OldExam28.08.2016\02Company\obj\Debug\02Company.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\OldExam28.08.2016\02Company\obj\Debug\02Company.pdb

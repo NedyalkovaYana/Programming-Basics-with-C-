@@ -1,0 +1,5 @@
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\SimpleCalculation\5.TrapezoidArea\bin\Debug\5.TrapezoidArea.exe.config
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\SimpleCalculation\5.TrapezoidArea\bin\Debug\5.TrapezoidArea.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\SimpleCalculation\5.TrapezoidArea\bin\Debug\5.TrapezoidArea.pdb
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\SimpleCalculation\5.TrapezoidArea\obj\Debug\5.TrapezoidArea.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\SimpleCalculation\5.TrapezoidArea\obj\Debug\5.TrapezoidArea.pdb

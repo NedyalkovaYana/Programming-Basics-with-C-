@@ -1,0 +1,6 @@
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\SimpleCalculation\8.TriangleArea\bin\Debug\8.TriangleArea.exe.config
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\SimpleCalculation\8.TriangleArea\bin\Debug\8.TriangleArea.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\SimpleCalculation\8.TriangleArea\bin\Debug\8.TriangleArea.pdb
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\SimpleCalculation\8.TriangleArea\obj\Debug\8.TriangleArea.csprojResolveAssemblyReference.cache
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\SimpleCalculation\8.TriangleArea\obj\Debug\8.TriangleArea.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\SimpleCalculation\8.TriangleArea\obj\Debug\8.TriangleArea.pdb

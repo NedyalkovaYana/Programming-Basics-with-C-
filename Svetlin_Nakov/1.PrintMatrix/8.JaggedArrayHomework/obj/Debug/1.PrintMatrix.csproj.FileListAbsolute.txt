@@ -1,0 +1,6 @@
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\1.PrintMatrix\8.JaggedArrayHomework\bin\Debug\8.JaggedArrayHomework.exe.config
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\1.PrintMatrix\8.JaggedArrayHomework\bin\Debug\8.JaggedArrayHomework.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\1.PrintMatrix\8.JaggedArrayHomework\bin\Debug\8.JaggedArrayHomework.pdb
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\1.PrintMatrix\8.JaggedArrayHomework\obj\Debug\1.PrintMatrix.csprojResolveAssemblyReference.cache
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\1.PrintMatrix\8.JaggedArrayHomework\obj\Debug\8.JaggedArrayHomework.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\1.PrintMatrix\8.JaggedArrayHomework\obj\Debug\8.JaggedArrayHomework.pdb

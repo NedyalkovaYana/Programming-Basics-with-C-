@@ -1,0 +1,6 @@
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\DrawingWithLoop\06.CristmasTree\obj\Debug\06.CristmasTree.csprojResolveAssemblyReference.cache
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\DrawingWithLoop\06.CristmasTree\bin\Debug\06.CristmasTree.exe.config
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\DrawingWithLoop\06.CristmasTree\bin\Debug\06.CristmasTree.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\DrawingWithLoop\06.CristmasTree\bin\Debug\06.CristmasTree.pdb
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\DrawingWithLoop\06.CristmasTree\obj\Debug\06.CristmasTree.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\DrawingWithLoop\06.CristmasTree\obj\Debug\06.CristmasTree.pdb

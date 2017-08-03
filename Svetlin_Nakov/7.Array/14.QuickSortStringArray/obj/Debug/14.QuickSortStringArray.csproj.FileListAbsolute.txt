@@ -1,0 +1,6 @@
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Svetlin_Nakov\7.Array\14.QuickSortStringArray\bin\Debug\14.QuickSortStringArray.exe.config
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Svetlin_Nakov\7.Array\14.QuickSortStringArray\bin\Debug\14.QuickSortStringArray.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Svetlin_Nakov\7.Array\14.QuickSortStringArray\bin\Debug\14.QuickSortStringArray.pdb
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Svetlin_Nakov\7.Array\14.QuickSortStringArray\obj\Debug\14.QuickSortStringArray.csprojResolveAssemblyReference.cache
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Svetlin_Nakov\7.Array\14.QuickSortStringArray\obj\Debug\14.QuickSortStringArray.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Svetlin_Nakov\7.Array\14.QuickSortStringArray\obj\Debug\14.QuickSortStringArray.pdb

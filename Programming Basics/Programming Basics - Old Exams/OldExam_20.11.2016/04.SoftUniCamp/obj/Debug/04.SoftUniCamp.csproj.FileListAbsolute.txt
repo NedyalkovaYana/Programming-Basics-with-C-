@@ -1,0 +1,6 @@
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\OldExam_20.11.2016\04.SoftUniCamp\bin\Debug\04.SoftUniCamp.exe.config
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\OldExam_20.11.2016\04.SoftUniCamp\bin\Debug\04.SoftUniCamp.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\OldExam_20.11.2016\04.SoftUniCamp\bin\Debug\04.SoftUniCamp.pdb
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\OldExam_20.11.2016\04.SoftUniCamp\obj\Debug\04.SoftUniCamp.csprojResolveAssemblyReference.cache
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\OldExam_20.11.2016\04.SoftUniCamp\obj\Debug\04.SoftUniCamp.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\OldExam_20.11.2016\04.SoftUniCamp\obj\Debug\04.SoftUniCamp.pdb

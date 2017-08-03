@@ -1,0 +1,6 @@
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Svetlin_Nakov\9.MethodsHomework\14.MinMaxSumAvrgProductOfIntegers\bin\Debug\14.MinMaxSumAvrgProductOfIntegers.exe.config
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Svetlin_Nakov\9.MethodsHomework\14.MinMaxSumAvrgProductOfIntegers\bin\Debug\14.MinMaxSumAvrgProductOfIntegers.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Svetlin_Nakov\9.MethodsHomework\14.MinMaxSumAvrgProductOfIntegers\bin\Debug\14.MinMaxSumAvrgProductOfIntegers.pdb
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Svetlin_Nakov\9.MethodsHomework\14.MinMaxSumAvrgProductOfIntegers\obj\Debug\14.MinMaxSumAvrgProductOfIntegers.csprojResolveAssemblyReference.cache
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Svetlin_Nakov\9.MethodsHomework\14.MinMaxSumAvrgProductOfIntegers\obj\Debug\14.MinMaxSumAvrgProductOfIntegers.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Svetlin_Nakov\9.MethodsHomework\14.MinMaxSumAvrgProductOfIntegers\obj\Debug\14.MinMaxSumAvrgProductOfIntegers.pdb

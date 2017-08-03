@@ -1,0 +1,6 @@
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\4.Homework10.06.2017ComplConditionState\04.FruitOrVegetable\bin\Debug\04.FruitOrVegetable.exe.config
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\4.Homework10.06.2017ComplConditionState\04.FruitOrVegetable\bin\Debug\04.FruitOrVegetable.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\4.Homework10.06.2017ComplConditionState\04.FruitOrVegetable\bin\Debug\04.FruitOrVegetable.pdb
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\4.Homework10.06.2017ComplConditionState\04.FruitOrVegetable\obj\Debug\04.FruitOrVegetable.csprojResolveAssemblyReference.cache
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\4.Homework10.06.2017ComplConditionState\04.FruitOrVegetable\obj\Debug\04.FruitOrVegetable.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\4.Homework10.06.2017ComplConditionState\04.FruitOrVegetable\obj\Debug\04.FruitOrVegetable.pdb

@@ -1,0 +1,5 @@
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Homework_01.07.2017AdvancedLoops\05.Sequence2k+1\bin\Debug\05.Sequence2k+1.exe.config
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Homework_01.07.2017AdvancedLoops\05.Sequence2k+1\bin\Debug\05.Sequence2k+1.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Homework_01.07.2017AdvancedLoops\05.Sequence2k+1\bin\Debug\05.Sequence2k+1.pdb
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Homework_01.07.2017AdvancedLoops\05.Sequence2k+1\obj\Debug\05.Sequence2k+1.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Homework_01.07.2017AdvancedLoops\05.Sequence2k+1\obj\Debug\05.Sequence2k+1.pdb

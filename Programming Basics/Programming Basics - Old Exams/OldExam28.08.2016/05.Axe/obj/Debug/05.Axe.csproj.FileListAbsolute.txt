@@ -1,0 +1,6 @@
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\OldExam28.08.2016\05.Axe\bin\Debug\05.Axe.exe.config
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\OldExam28.08.2016\05.Axe\bin\Debug\05.Axe.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\OldExam28.08.2016\05.Axe\bin\Debug\05.Axe.pdb
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\OldExam28.08.2016\05.Axe\obj\Debug\05.Axe.csprojResolveAssemblyReference.cache
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\OldExam28.08.2016\05.Axe\obj\Debug\05.Axe.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\OldExam28.08.2016\05.Axe\obj\Debug\05.Axe.pdb

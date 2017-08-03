@@ -1,0 +1,5 @@
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2015\Projects\4.LectureHomework\7.GetNumberNFromConsole\bin\Debug\7.GetNumberNFromConsole.exe.config
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2015\Projects\4.LectureHomework\7.GetNumberNFromConsole\bin\Debug\7.GetNumberNFromConsole.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2015\Projects\4.LectureHomework\7.GetNumberNFromConsole\bin\Debug\7.GetNumberNFromConsole.pdb
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2015\Projects\4.LectureHomework\7.GetNumberNFromConsole\obj\Debug\7.GetNumberNFromConsole.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2015\Projects\4.LectureHomework\7.GetNumberNFromConsole\obj\Debug\7.GetNumberNFromConsole.pdb

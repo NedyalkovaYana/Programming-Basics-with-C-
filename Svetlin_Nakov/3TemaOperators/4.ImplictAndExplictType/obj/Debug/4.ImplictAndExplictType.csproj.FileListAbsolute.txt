@@ -1,0 +1,6 @@
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2015\Projects\3TemaOperators\4.ImplictAndExplictType\bin\Debug\4.ImplictAndExplictType.exe.config
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2015\Projects\3TemaOperators\4.ImplictAndExplictType\obj\Debug\4.ImplictAndExplictType.csprojResolveAssemblyReference.cache
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2015\Projects\3TemaOperators\4.ImplictAndExplictType\bin\Debug\4.ImplictAndExplictType.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2015\Projects\3TemaOperators\4.ImplictAndExplictType\bin\Debug\4.ImplictAndExplictType.pdb
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2015\Projects\3TemaOperators\4.ImplictAndExplictType\obj\Debug\4.ImplictAndExplictType.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2015\Projects\3TemaOperators\4.ImplictAndExplictType\obj\Debug\4.ImplictAndExplictType.pdb

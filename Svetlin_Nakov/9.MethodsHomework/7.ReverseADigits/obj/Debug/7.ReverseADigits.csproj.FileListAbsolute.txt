@@ -1,0 +1,5 @@
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\MethodsHomework\7.ReverseADigits\bin\Debug\7.ReverseADigits.exe.config
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\MethodsHomework\7.ReverseADigits\bin\Debug\7.ReverseADigits.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\MethodsHomework\7.ReverseADigits\bin\Debug\7.ReverseADigits.pdb
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\MethodsHomework\7.ReverseADigits\obj\Debug\7.ReverseADigits.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\MethodsHomework\7.ReverseADigits\obj\Debug\7.ReverseADigits.pdb

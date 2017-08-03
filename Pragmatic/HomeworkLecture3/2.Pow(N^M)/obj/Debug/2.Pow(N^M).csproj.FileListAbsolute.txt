@@ -1,0 +1,6 @@
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\HomeworkLecture3\2.Pow(N^M)\bin\Debug\2.Pow(N^M).exe.config
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\HomeworkLecture3\2.Pow(N^M)\bin\Debug\2.Pow(N^M).exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\HomeworkLecture3\2.Pow(N^M)\bin\Debug\2.Pow(N^M).pdb
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\HomeworkLecture3\2.Pow(N^M)\obj\Debug\2.Pow(N^M).exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\HomeworkLecture3\2.Pow(N^M)\obj\Debug\2.Pow(N^M).pdb
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\HomeworkLecture3\2.Pow(N^M)\obj\Debug\2.Pow(N^M).csprojResolveAssemblyReference.cache

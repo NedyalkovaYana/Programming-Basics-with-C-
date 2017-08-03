@@ -1,0 +1,6 @@
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2015\Projects\Homework1\13.IntegerAndDoubleNull\bin\Debug\13.IntegerAndDoubleNull.exe.config
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2015\Projects\Homework1\13.IntegerAndDoubleNull\bin\Debug\13.IntegerAndDoubleNull.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2015\Projects\Homework1\13.IntegerAndDoubleNull\bin\Debug\13.IntegerAndDoubleNull.pdb
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2015\Projects\Homework1\13.IntegerAndDoubleNull\obj\Debug\13.IntegerAndDoubleNull.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2015\Projects\Homework1\13.IntegerAndDoubleNull\obj\Debug\13.IntegerAndDoubleNull.pdb
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2015\Projects\Homework1\13.IntegerAndDoubleNull\obj\Debug\13.IntegerAndDoubleNull.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\07.05.2017\03\bin\Debug\03.exe.config
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\07.05.2017\03\bin\Debug\03.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\07.05.2017\03\bin\Debug\03.pdb
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\07.05.2017\03\obj\Debug\03.csprojResolveAssemblyReference.cache
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\07.05.2017\03\obj\Debug\03.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\07.05.2017\03\obj\Debug\03.pdb

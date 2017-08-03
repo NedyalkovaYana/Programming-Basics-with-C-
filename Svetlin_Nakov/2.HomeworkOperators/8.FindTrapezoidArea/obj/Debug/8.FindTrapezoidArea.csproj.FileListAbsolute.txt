@@ -1,0 +1,6 @@
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2015\Projects\2.HomeworkOperators\8.FindTrapezoidArea\bin\Debug\8.FindTrapezoidArea.exe.config
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2015\Projects\2.HomeworkOperators\8.FindTrapezoidArea\bin\Debug\8.FindTrapezoidArea.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2015\Projects\2.HomeworkOperators\8.FindTrapezoidArea\bin\Debug\8.FindTrapezoidArea.pdb
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2015\Projects\2.HomeworkOperators\8.FindTrapezoidArea\obj\Debug\8.FindTrapezoidArea.csprojResolveAssemblyReference.cache
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2015\Projects\2.HomeworkOperators\8.FindTrapezoidArea\obj\Debug\8.FindTrapezoidArea.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2015\Projects\2.HomeworkOperators\8.FindTrapezoidArea\obj\Debug\8.FindTrapezoidArea.pdb

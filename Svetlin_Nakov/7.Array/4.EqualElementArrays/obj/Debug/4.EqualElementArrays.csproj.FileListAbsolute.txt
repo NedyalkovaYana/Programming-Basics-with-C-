@@ -1,0 +1,6 @@
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\1.PrintArray5To100\4.EqualElementArrays\bin\Debug\4.EqualElementArrays.exe.config
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\1.PrintArray5To100\4.EqualElementArrays\bin\Debug\4.EqualElementArrays.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\1.PrintArray5To100\4.EqualElementArrays\bin\Debug\4.EqualElementArrays.pdb
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\1.PrintArray5To100\4.EqualElementArrays\obj\Debug\4.EqualElementArrays.csprojResolveAssemblyReference.cache
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\1.PrintArray5To100\4.EqualElementArrays\obj\Debug\4.EqualElementArrays.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\1.PrintArray5To100\4.EqualElementArrays\obj\Debug\4.EqualElementArrays.pdb

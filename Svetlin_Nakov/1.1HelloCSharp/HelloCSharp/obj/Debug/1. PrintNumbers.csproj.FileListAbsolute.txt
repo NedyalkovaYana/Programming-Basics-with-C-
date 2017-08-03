@@ -1,0 +1,6 @@
+c:\users\boris kovachev\documents\visual studio 2015\Projects\HelloCSharp\HelloCSharp\obj\Debug\HelloCSharp.exe
+c:\users\boris kovachev\documents\visual studio 2015\Projects\HelloCSharp\HelloCSharp\obj\Debug\HelloCSharp.pdb
+c:\users\boris kovachev\documents\visual studio 2015\Projects\HelloCSharp\HelloCSharp\bin\Debug\HelloCSharp.exe
+c:\users\boris kovachev\documents\visual studio 2015\Projects\HelloCSharp\HelloCSharp\bin\Debug\HelloCSharp.pdb
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2015\Projects\HelloCSharp\HelloCSharp\obj\Debug\HelloCSharp.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2015\Projects\HelloCSharp\HelloCSharp\obj\Debug\HelloCSharp.pdb

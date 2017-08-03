@@ -1,0 +1,6 @@
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\OldExam_19.03.2017\02.Cups\bin\Debug\02.Cups.exe.config
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\OldExam_19.03.2017\02.Cups\bin\Debug\02.Cups.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\OldExam_19.03.2017\02.Cups\bin\Debug\02.Cups.pdb
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\OldExam_19.03.2017\02.Cups\obj\Debug\02.Cups.csprojResolveAssemblyReference.cache
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\OldExam_19.03.2017\02.Cups\obj\Debug\02.Cups.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\OldExam_19.03.2017\02.Cups\obj\Debug\02.Cups.pdb

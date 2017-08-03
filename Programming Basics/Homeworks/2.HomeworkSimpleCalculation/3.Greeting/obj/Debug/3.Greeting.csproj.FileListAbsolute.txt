@@ -1,0 +1,5 @@
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\SimpleCalculation\3.Greeting\bin\Debug\3.Greeting.exe.config
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\SimpleCalculation\3.Greeting\bin\Debug\3.Greeting.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\SimpleCalculation\3.Greeting\bin\Debug\3.Greeting.pdb
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\SimpleCalculation\3.Greeting\obj\Debug\3.Greeting.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\SimpleCalculation\3.Greeting\obj\Debug\3.Greeting.pdb

@@ -1,0 +1,6 @@
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\6.Homework24.06.2017\08.Sunglasses\bin\Debug\08.Sunglasses.exe.config
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\6.Homework24.06.2017\08.Sunglasses\bin\Debug\08.Sunglasses.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\6.Homework24.06.2017\08.Sunglasses\bin\Debug\08.Sunglasses.pdb
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\6.Homework24.06.2017\08.Sunglasses\obj\Debug\08.Sunglasses.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\6.Homework24.06.2017\08.Sunglasses\obj\Debug\08.Sunglasses.pdb
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\6.Homework24.06.2017\08.Sunglasses\obj\Debug\08.Sunglasses.csprojResolveAssemblyReference.cache

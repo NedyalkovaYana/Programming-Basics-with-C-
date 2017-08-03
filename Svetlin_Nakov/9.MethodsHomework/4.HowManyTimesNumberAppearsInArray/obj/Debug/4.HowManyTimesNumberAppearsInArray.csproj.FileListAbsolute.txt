@@ -1,0 +1,6 @@
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\MethodsHomework\4.HowManyTimesNumberAppearsInArray\bin\Debug\4.HowManyTimesNumberAppearsInArray.exe.config
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\MethodsHomework\4.HowManyTimesNumberAppearsInArray\bin\Debug\4.HowManyTimesNumberAppearsInArray.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\MethodsHomework\4.HowManyTimesNumberAppearsInArray\bin\Debug\4.HowManyTimesNumberAppearsInArray.pdb
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\MethodsHomework\4.HowManyTimesNumberAppearsInArray\obj\Debug\4.HowManyTimesNumberAppearsInArray.csprojResolveAssemblyReference.cache
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\MethodsHomework\4.HowManyTimesNumberAppearsInArray\obj\Debug\4.HowManyTimesNumberAppearsInArray.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\MethodsHomework\4.HowManyTimesNumberAppearsInArray\obj\Debug\4.HowManyTimesNumberAppearsInArray.pdb

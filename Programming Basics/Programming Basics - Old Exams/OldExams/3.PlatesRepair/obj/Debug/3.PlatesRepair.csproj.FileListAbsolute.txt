@@ -1,0 +1,6 @@
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\OldExams\3.PlatesRepair\bin\Debug\3.PlatesRepair.exe.config
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\OldExams\3.PlatesRepair\bin\Debug\3.PlatesRepair.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\OldExams\3.PlatesRepair\bin\Debug\3.PlatesRepair.pdb
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\OldExams\3.PlatesRepair\obj\Debug\3.PlatesRepair.csprojResolveAssemblyReference.cache
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\OldExams\3.PlatesRepair\obj\Debug\3.PlatesRepair.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\OldExams\3.PlatesRepair\obj\Debug\3.PlatesRepair.pdb

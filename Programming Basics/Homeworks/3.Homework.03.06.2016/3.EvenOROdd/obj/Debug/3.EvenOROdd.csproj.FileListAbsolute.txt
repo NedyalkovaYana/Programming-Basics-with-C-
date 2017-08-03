@@ -1,0 +1,5 @@
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Lecture3SoftUni\3.EvenOROdd\bin\Debug\3.EvenOROdd.exe.config
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Lecture3SoftUni\3.EvenOROdd\bin\Debug\3.EvenOROdd.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Lecture3SoftUni\3.EvenOROdd\bin\Debug\3.EvenOROdd.pdb
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Lecture3SoftUni\3.EvenOROdd\obj\Debug\3.EvenOROdd.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Lecture3SoftUni\3.EvenOROdd\obj\Debug\3.EvenOROdd.pdb

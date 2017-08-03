@@ -1,0 +1,6 @@
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\OldExam28.08.2016\03.HotelRoom\obj\Debug\03.HotelRoom.csprojResolveAssemblyReference.cache
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\OldExam28.08.2016\03.HotelRoom\bin\Debug\03.HotelRoom.exe.config
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\OldExam28.08.2016\03.HotelRoom\bin\Debug\03.HotelRoom.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\OldExam28.08.2016\03.HotelRoom\bin\Debug\03.HotelRoom.pdb
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\OldExam28.08.2016\03.HotelRoom\obj\Debug\03.HotelRoom.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\OldExam28.08.2016\03.HotelRoom\obj\Debug\03.HotelRoom.pdb

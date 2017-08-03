@@ -1,0 +1,6 @@
+c:\users\boris kovachev\documents\visual studio 2015\Projects\HelloCSharp\3. PrintSequence\bin\Debug\_3.PrintSequence.exe
+c:\users\boris kovachev\documents\visual studio 2015\Projects\HelloCSharp\3. PrintSequence\bin\Debug\_3.PrintSequence.pdb
+c:\users\boris kovachev\documents\visual studio 2015\Projects\HelloCSharp\3. PrintSequence\obj\Debug\_3.PrintSequence.exe
+c:\users\boris kovachev\documents\visual studio 2015\Projects\HelloCSharp\3. PrintSequence\obj\Debug\_3.PrintSequence.pdb
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2015\Projects\HelloCSharp\3. PrintSequence\obj\Debug\_3.PrintSequence.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2015\Projects\HelloCSharp\3. PrintSequence\obj\Debug\_3.PrintSequence.pdb

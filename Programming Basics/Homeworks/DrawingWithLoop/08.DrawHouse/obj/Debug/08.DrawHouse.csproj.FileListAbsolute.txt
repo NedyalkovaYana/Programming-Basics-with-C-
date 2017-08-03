@@ -1,0 +1,6 @@
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\DrawingWithLoop\08.DrawHouse\bin\Debug\08.DrawHouse.exe.config
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\DrawingWithLoop\08.DrawHouse\bin\Debug\08.DrawHouse.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\DrawingWithLoop\08.DrawHouse\bin\Debug\08.DrawHouse.pdb
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\DrawingWithLoop\08.DrawHouse\obj\Debug\08.DrawHouse.csprojResolveAssemblyReference.cache
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\DrawingWithLoop\08.DrawHouse\obj\Debug\08.DrawHouse.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\DrawingWithLoop\08.DrawHouse\obj\Debug\08.DrawHouse.pdb

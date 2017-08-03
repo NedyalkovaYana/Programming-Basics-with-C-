@@ -1,0 +1,5 @@
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\5.Homework17062017\02.NumbersEndingIn7\bin\Debug\02.NumbersEndingIn7.exe.config
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\5.Homework17062017\02.NumbersEndingIn7\bin\Debug\02.NumbersEndingIn7.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\5.Homework17062017\02.NumbersEndingIn7\bin\Debug\02.NumbersEndingIn7.pdb
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\5.Homework17062017\02.NumbersEndingIn7\obj\Debug\02.NumbersEndingIn7.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\5.Homework17062017\02.NumbersEndingIn7\obj\Debug\02.NumbersEndingIn7.pdb

@@ -1,0 +1,5 @@
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\OldExam_18.03.2017\03.CarToGo\bin\Debug\03.CarToGo.exe.config
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\OldExam_18.03.2017\03.CarToGo\bin\Debug\03.CarToGo.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\OldExam_18.03.2017\03.CarToGo\bin\Debug\03.CarToGo.pdb
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\OldExam_18.03.2017\03.CarToGo\obj\Debug\03.CarToGo.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\OldExam_18.03.2017\03.CarToGo\obj\Debug\03.CarToGo.pdb

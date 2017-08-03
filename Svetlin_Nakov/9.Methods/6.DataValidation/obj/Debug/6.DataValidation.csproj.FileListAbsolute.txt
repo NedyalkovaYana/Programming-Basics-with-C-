@@ -1,0 +1,6 @@
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Methods\6.DataValidation\bin\Debug\6.DataValidation.exe.config
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Methods\6.DataValidation\bin\Debug\6.DataValidation.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Methods\6.DataValidation\bin\Debug\6.DataValidation.pdb
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Methods\6.DataValidation\obj\Debug\6.DataValidation.csprojResolveAssemblyReference.cache
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Methods\6.DataValidation\obj\Debug\6.DataValidation.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Methods\6.DataValidation\obj\Debug\6.DataValidation.pdb

@@ -1,0 +1,6 @@
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Programming Basics\Programming Basics - Old Exams\OldExam-12.07.2015\02.DetectiveBoev\bin\Debug\02.DetectiveBoev.exe.config
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Programming Basics\Programming Basics - Old Exams\OldExam-12.07.2015\02.DetectiveBoev\bin\Debug\02.DetectiveBoev.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Programming Basics\Programming Basics - Old Exams\OldExam-12.07.2015\02.DetectiveBoev\bin\Debug\02.DetectiveBoev.pdb
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Programming Basics\Programming Basics - Old Exams\OldExam-12.07.2015\02.DetectiveBoev\obj\Debug\03drawBottle.csprojResolveAssemblyReference.cache
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Programming Basics\Programming Basics - Old Exams\OldExam-12.07.2015\02.DetectiveBoev\obj\Debug\02.DetectiveBoev.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Programming Basics\Programming Basics - Old Exams\OldExam-12.07.2015\02.DetectiveBoev\obj\Debug\02.DetectiveBoev.pdb

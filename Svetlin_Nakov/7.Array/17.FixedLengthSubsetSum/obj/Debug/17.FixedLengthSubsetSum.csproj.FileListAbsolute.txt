@@ -1,0 +1,6 @@
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Svetlin_Nakov\7.Array\17.FixedLengthSubsetSum\bin\Debug\17.FixedLengthSubsetSum.exe.config
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Svetlin_Nakov\7.Array\17.FixedLengthSubsetSum\bin\Debug\17.FixedLengthSubsetSum.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Svetlin_Nakov\7.Array\17.FixedLengthSubsetSum\bin\Debug\17.FixedLengthSubsetSum.pdb
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Svetlin_Nakov\7.Array\17.FixedLengthSubsetSum\obj\Debug\17.FixedLengthSubsetSum.csprojResolveAssemblyReference.cache
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Svetlin_Nakov\7.Array\17.FixedLengthSubsetSum\obj\Debug\17.FixedLengthSubsetSum.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Svetlin_Nakov\7.Array\17.FixedLengthSubsetSum\obj\Debug\17.FixedLengthSubsetSum.pdb

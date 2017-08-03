@@ -1,0 +1,6 @@
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\OldExam19.03.2017Evening\06.ControlNumber\bin\Debug\06.ControlNumber.exe.config
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\OldExam19.03.2017Evening\06.ControlNumber\bin\Debug\06.ControlNumber.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\OldExam19.03.2017Evening\06.ControlNumber\bin\Debug\06.ControlNumber.pdb
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\OldExam19.03.2017Evening\06.ControlNumber\obj\Debug\06.ControlNumber.csprojResolveAssemblyReference.cache
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\OldExam19.03.2017Evening\06.ControlNumber\obj\Debug\06.ControlNumber.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\OldExam19.03.2017Evening\06.ControlNumber\obj\Debug\06.ControlNumber.pdb

@@ -1,0 +1,6 @@
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\10.Recursion\1.RecursiveFactoriel\bin\Debug\1.RecursiveFactoriel.exe.config
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\10.Recursion\1.RecursiveFactoriel\bin\Debug\1.RecursiveFactoriel.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\10.Recursion\1.RecursiveFactoriel\bin\Debug\1.RecursiveFactoriel.pdb
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\10.Recursion\1.RecursiveFactoriel\obj\Debug\1.RecursiveFactoriel.csprojResolveAssemblyReference.cache
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\10.Recursion\1.RecursiveFactoriel\obj\Debug\1.RecursiveFactoriel.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\10.Recursion\1.RecursiveFactoriel\obj\Debug\1.RecursiveFactoriel.pdb

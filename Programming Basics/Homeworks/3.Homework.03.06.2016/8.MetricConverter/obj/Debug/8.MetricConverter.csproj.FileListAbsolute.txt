@@ -1,0 +1,6 @@
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Lecture3SoftUni\8.MetricConverter\bin\Debug\8.MetricConverter.exe.config
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Lecture3SoftUni\8.MetricConverter\bin\Debug\8.MetricConverter.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Lecture3SoftUni\8.MetricConverter\bin\Debug\8.MetricConverter.pdb
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Lecture3SoftUni\8.MetricConverter\obj\Debug\8.MetricConverter.csprojResolveAssemblyReference.cache
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Lecture3SoftUni\8.MetricConverter\obj\Debug\8.MetricConverter.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Lecture3SoftUni\8.MetricConverter\obj\Debug\8.MetricConverter.pdb

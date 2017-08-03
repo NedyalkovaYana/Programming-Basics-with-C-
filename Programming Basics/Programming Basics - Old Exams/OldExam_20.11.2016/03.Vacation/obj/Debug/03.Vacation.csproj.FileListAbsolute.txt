@@ -1,0 +1,6 @@
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\OldExam_20.11.2016\03.Vacation\bin\Debug\03.Vacation.exe.config
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\OldExam_20.11.2016\03.Vacation\bin\Debug\03.Vacation.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\OldExam_20.11.2016\03.Vacation\bin\Debug\03.Vacation.pdb
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\OldExam_20.11.2016\03.Vacation\obj\Debug\03.Vacation.csprojResolveAssemblyReference.cache
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\OldExam_20.11.2016\03.Vacation\obj\Debug\03.Vacation.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\OldExam_20.11.2016\03.Vacation\obj\Debug\03.Vacation.pdb

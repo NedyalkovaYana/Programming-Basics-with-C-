@@ -1,0 +1,5 @@
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\5.Homework17062017\07.LeftAndRightSum\bin\Debug\07.LeftAndRightSum.exe.config
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\5.Homework17062017\07.LeftAndRightSum\bin\Debug\07.LeftAndRightSum.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\5.Homework17062017\07.LeftAndRightSum\bin\Debug\07.LeftAndRightSum.pdb
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\5.Homework17062017\07.LeftAndRightSum\obj\Debug\07.LeftAndRightSum.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\5.Homework17062017\07.LeftAndRightSum\obj\Debug\07.LeftAndRightSum.pdb

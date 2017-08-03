@@ -1,0 +1,5 @@
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\DrawingWithLoop\02.DrawSquare\bin\Debug\02.DrawSquare.exe.config
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\DrawingWithLoop\02.DrawSquare\bin\Debug\02.DrawSquare.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\DrawingWithLoop\02.DrawSquare\bin\Debug\02.DrawSquare.pdb
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\DrawingWithLoop\02.DrawSquare\obj\Debug\02.DrawSquare.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\DrawingWithLoop\02.DrawSquare\obj\Debug\02.DrawSquare.pdb

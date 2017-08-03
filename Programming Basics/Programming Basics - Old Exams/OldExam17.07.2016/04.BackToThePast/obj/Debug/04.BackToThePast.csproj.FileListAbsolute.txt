@@ -1,0 +1,6 @@
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\OldExam17.07.2016\04.BackToThePast\bin\Debug\04.BackToThePast.exe.config
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\OldExam17.07.2016\04.BackToThePast\bin\Debug\04.BackToThePast.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\OldExam17.07.2016\04.BackToThePast\bin\Debug\04.BackToThePast.pdb
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\OldExam17.07.2016\04.BackToThePast\obj\Debug\04.BackToThePast.csprojResolveAssemblyReference.cache
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\OldExam17.07.2016\04.BackToThePast\obj\Debug\04.BackToThePast.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\OldExam17.07.2016\04.BackToThePast\obj\Debug\04.BackToThePast.pdb

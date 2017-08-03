@@ -1,0 +1,6 @@
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\4.Homework10.06.2017ComplConditionState\07.FruitShop\bin\Debug\07.FruitShop.exe.config
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\4.Homework10.06.2017ComplConditionState\07.FruitShop\bin\Debug\07.FruitShop.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\4.Homework10.06.2017ComplConditionState\07.FruitShop\bin\Debug\07.FruitShop.pdb
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\4.Homework10.06.2017ComplConditionState\07.FruitShop\obj\Debug\07.FruitShop.csprojResolveAssemblyReference.cache
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\4.Homework10.06.2017ComplConditionState\07.FruitShop\obj\Debug\07.FruitShop.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\4.Homework10.06.2017ComplConditionState\07.FruitShop\obj\Debug\07.FruitShop.pdb

@@ -1,0 +1,6 @@
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\SoftUni\OldExam17.05.2017\5.Crown\bin\Debug\5.Crown.exe.config
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\SoftUni\OldExam17.05.2017\5.Crown\bin\Debug\5.Crown.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\SoftUni\OldExam17.05.2017\5.Crown\bin\Debug\5.Crown.pdb
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\SoftUni\OldExam17.05.2017\5.Crown\obj\Debug\5.Crown.csprojResolveAssemblyReference.cache
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\SoftUni\OldExam17.05.2017\5.Crown\obj\Debug\5.Crown.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\SoftUni\OldExam17.05.2017\5.Crown\obj\Debug\5.Crown.pdb

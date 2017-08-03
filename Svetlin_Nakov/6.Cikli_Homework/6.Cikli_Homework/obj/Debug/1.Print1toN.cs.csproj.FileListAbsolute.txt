@@ -1,0 +1,6 @@
+c:\users\yana nedyalkova\documents\visual studio 2015\Projects\6.Cikli_Homework\6.Cikli_Homework\bin\Debug\6.Cikli_Homework.exe.config
+c:\users\yana nedyalkova\documents\visual studio 2015\Projects\6.Cikli_Homework\6.Cikli_Homework\bin\Debug\6.Cikli_Homework.exe
+c:\users\yana nedyalkova\documents\visual studio 2015\Projects\6.Cikli_Homework\6.Cikli_Homework\bin\Debug\6.Cikli_Homework.pdb
+c:\users\yana nedyalkova\documents\visual studio 2015\Projects\6.Cikli_Homework\6.Cikli_Homework\obj\Debug\1.Print1toN.cs.csprojResolveAssemblyReference.cache
+c:\users\yana nedyalkova\documents\visual studio 2015\Projects\6.Cikli_Homework\6.Cikli_Homework\obj\Debug\6.Cikli_Homework.exe
+c:\users\yana nedyalkova\documents\visual studio 2015\Projects\6.Cikli_Homework\6.Cikli_Homework\obj\Debug\6.Cikli_Homework.pdb

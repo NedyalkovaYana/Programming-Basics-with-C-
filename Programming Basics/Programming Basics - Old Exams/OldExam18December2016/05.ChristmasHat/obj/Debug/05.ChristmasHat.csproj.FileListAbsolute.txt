@@ -1,0 +1,5 @@
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\OldExam18December2016\05.ChristmasHat\bin\Debug\05.ChristmasHat.exe.config
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\OldExam18December2016\05.ChristmasHat\bin\Debug\05.ChristmasHat.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\OldExam18December2016\05.ChristmasHat\bin\Debug\05.ChristmasHat.pdb
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\OldExam18December2016\05.ChristmasHat\obj\Debug\05.ChristmasHat.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\OldExam18December2016\05.ChristmasHat\obj\Debug\05.ChristmasHat.pdb

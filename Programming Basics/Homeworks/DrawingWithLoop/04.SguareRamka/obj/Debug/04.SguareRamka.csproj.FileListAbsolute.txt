@@ -1,0 +1,5 @@
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\DrawingWithLoop\04.SguareRamka\bin\Debug\04.SguareRamka.exe.config
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\DrawingWithLoop\04.SguareRamka\bin\Debug\04.SguareRamka.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\DrawingWithLoop\04.SguareRamka\bin\Debug\04.SguareRamka.pdb
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\DrawingWithLoop\04.SguareRamka\obj\Debug\04.SguareRamka.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\DrawingWithLoop\04.SguareRamka\obj\Debug\04.SguareRamka.pdb

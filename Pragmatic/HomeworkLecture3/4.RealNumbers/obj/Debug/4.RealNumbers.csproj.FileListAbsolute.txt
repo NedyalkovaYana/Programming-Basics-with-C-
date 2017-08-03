@@ -1,0 +1,5 @@
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\HomeworkLecture3\4.RealNumbers\bin\Debug\4.RealNumbers.exe.config
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\HomeworkLecture3\4.RealNumbers\bin\Debug\4.RealNumbers.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\HomeworkLecture3\4.RealNumbers\bin\Debug\4.RealNumbers.pdb
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\HomeworkLecture3\4.RealNumbers\obj\Debug\4.RealNumbers.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\HomeworkLecture3\4.RealNumbers\obj\Debug\4.RealNumbers.pdb

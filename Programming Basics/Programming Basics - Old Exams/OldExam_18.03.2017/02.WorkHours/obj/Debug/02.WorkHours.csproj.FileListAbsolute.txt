@@ -1,0 +1,5 @@
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\OldExam_18.03.2017\02.WorkHours\bin\Debug\02.WorkHours.exe.config
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\OldExam_18.03.2017\02.WorkHours\bin\Debug\02.WorkHours.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\OldExam_18.03.2017\02.WorkHours\bin\Debug\02.WorkHours.pdb
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\OldExam_18.03.2017\02.WorkHours\obj\Debug\02.WorkHours.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\OldExam_18.03.2017\02.WorkHours\obj\Debug\02.WorkHours.pdb

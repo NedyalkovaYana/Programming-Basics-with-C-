@@ -1,0 +1,6 @@
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\1.PrintArray5To100\5.MaximalSequenceElementArray\bin\Debug\5.MaximalSequenceElementArray.exe.config
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\1.PrintArray5To100\5.MaximalSequenceElementArray\bin\Debug\5.MaximalSequenceElementArray.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\1.PrintArray5To100\5.MaximalSequenceElementArray\bin\Debug\5.MaximalSequenceElementArray.pdb
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\1.PrintArray5To100\5.MaximalSequenceElementArray\obj\Debug\5.MaximalSequenceElementArray.csprojResolveAssemblyReference.cache
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\1.PrintArray5To100\5.MaximalSequenceElementArray\obj\Debug\5.MaximalSequenceElementArray.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\1.PrintArray5To100\5.MaximalSequenceElementArray\obj\Debug\5.MaximalSequenceElementArray.pdb

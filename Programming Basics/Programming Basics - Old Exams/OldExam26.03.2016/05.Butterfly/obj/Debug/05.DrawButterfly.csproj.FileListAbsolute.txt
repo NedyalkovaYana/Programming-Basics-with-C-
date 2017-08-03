@@ -1,0 +1,5 @@
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\OldExam26.03.2016\05.Butterfly\bin\Debug\05.Butterfly.exe.config
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\OldExam26.03.2016\05.Butterfly\bin\Debug\05.Butterfly.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\OldExam26.03.2016\05.Butterfly\bin\Debug\05.Butterfly.pdb
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\OldExam26.03.2016\05.Butterfly\obj\Debug\05.Butterfly.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\OldExam26.03.2016\05.Butterfly\obj\Debug\05.Butterfly.pdb

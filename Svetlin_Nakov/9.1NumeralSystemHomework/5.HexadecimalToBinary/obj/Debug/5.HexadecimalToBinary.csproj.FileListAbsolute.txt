@@ -1,0 +1,5 @@
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\NumeralSystemHomework\5.HexadecimalToBinary\bin\Debug\5.HexadecimalToBinary.exe.config
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\NumeralSystemHomework\5.HexadecimalToBinary\bin\Debug\5.HexadecimalToBinary.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\NumeralSystemHomework\5.HexadecimalToBinary\bin\Debug\5.HexadecimalToBinary.pdb
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\NumeralSystemHomework\5.HexadecimalToBinary\obj\Debug\5.HexadecimalToBinary.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\NumeralSystemHomework\5.HexadecimalToBinary\obj\Debug\5.HexadecimalToBinary.pdb

@@ -1,0 +1,6 @@
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Svetlin_Nakov\9.MethodsHomework\15.TestMyFunction\obj\Debug\15.TestMyFunction.csprojResolveAssemblyReference.cache
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Svetlin_Nakov\9.MethodsHomework\15.TestMyFunction\bin\Debug\15.TestMyFunction.exe.config
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Svetlin_Nakov\9.MethodsHomework\15.TestMyFunction\bin\Debug\15.TestMyFunction.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Svetlin_Nakov\9.MethodsHomework\15.TestMyFunction\bin\Debug\15.TestMyFunction.pdb
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Svetlin_Nakov\9.MethodsHomework\15.TestMyFunction\obj\Debug\15.TestMyFunction.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Svetlin_Nakov\9.MethodsHomework\15.TestMyFunction\obj\Debug\15.TestMyFunction.pdb

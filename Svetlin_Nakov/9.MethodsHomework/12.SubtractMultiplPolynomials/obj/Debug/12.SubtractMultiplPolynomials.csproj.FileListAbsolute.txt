@@ -1,0 +1,6 @@
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Svetlin_Nakov\9.MethodsHomework\12.SubtractMultiplPolynomials\bin\Debug\12.SubtractMultiplPolynomials.exe.config
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Svetlin_Nakov\9.MethodsHomework\12.SubtractMultiplPolynomials\bin\Debug\12.SubtractMultiplPolynomials.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Svetlin_Nakov\9.MethodsHomework\12.SubtractMultiplPolynomials\bin\Debug\12.SubtractMultiplPolynomials.pdb
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Svetlin_Nakov\9.MethodsHomework\12.SubtractMultiplPolynomials\obj\Debug\12.SubtractMultiplPolynomials.csprojResolveAssemblyReference.cache
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Svetlin_Nakov\9.MethodsHomework\12.SubtractMultiplPolynomials\obj\Debug\12.SubtractMultiplPolynomials.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Svetlin_Nakov\9.MethodsHomework\12.SubtractMultiplPolynomials\obj\Debug\12.SubtractMultiplPolynomials.pdb

@@ -1,0 +1,6 @@
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\OldExam25June2017\03.FruitKoktail\bin\Debug\03.FruitKoktail.exe.config
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\OldExam25June2017\03.FruitKoktail\bin\Debug\03.FruitKoktail.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\OldExam25June2017\03.FruitKoktail\bin\Debug\03.FruitKoktail.pdb
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\OldExam25June2017\03.FruitKoktail\obj\Debug\03.FruitKoktail.csprojResolveAssemblyReference.cache
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\OldExam25June2017\03.FruitKoktail\obj\Debug\03.FruitKoktail.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\OldExam25June2017\03.FruitKoktail\obj\Debug\03.FruitKoktail.pdb

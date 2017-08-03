@@ -1,0 +1,6 @@
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Homework_01.07.2017AdvancedLoops\13.NumberPyramid\bin\Debug\13.NumberPyramid.exe.config
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Homework_01.07.2017AdvancedLoops\13.NumberPyramid\bin\Debug\13.NumberPyramid.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Homework_01.07.2017AdvancedLoops\13.NumberPyramid\bin\Debug\13.NumberPyramid.pdb
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Homework_01.07.2017AdvancedLoops\13.NumberPyramid\obj\Debug\13.NumberPyramid.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Homework_01.07.2017AdvancedLoops\13.NumberPyramid\obj\Debug\13.NumberPyramid.pdb
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Homework_01.07.2017AdvancedLoops\13.NumberPyramid\obj\Debug\13.NumberPyramid.csprojResolveAssemblyReference.cache

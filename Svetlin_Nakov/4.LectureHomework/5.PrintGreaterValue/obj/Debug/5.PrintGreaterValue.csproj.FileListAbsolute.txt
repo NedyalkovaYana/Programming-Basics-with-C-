@@ -1,0 +1,6 @@
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2015\Projects\4.LectureHomework\5.PrintGreaterValue\bin\Debug\5.PrintGreaterValue.exe.config
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2015\Projects\4.LectureHomework\5.PrintGreaterValue\bin\Debug\5.PrintGreaterValue.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2015\Projects\4.LectureHomework\5.PrintGreaterValue\bin\Debug\5.PrintGreaterValue.pdb
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2015\Projects\4.LectureHomework\5.PrintGreaterValue\obj\Debug\5.PrintGreaterValue.csprojResolveAssemblyReference.cache
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2015\Projects\4.LectureHomework\5.PrintGreaterValue\obj\Debug\5.PrintGreaterValue.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2015\Projects\4.LectureHomework\5.PrintGreaterValue\obj\Debug\5.PrintGreaterValue.pdb

@@ -1,0 +1,6 @@
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\1.ExampleMatrix\7. ClassStudents\bin\Debug\_7.ClassStudents.exe.config
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\1.ExampleMatrix\7. ClassStudents\bin\Debug\_7.ClassStudents.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\1.ExampleMatrix\7. ClassStudents\bin\Debug\_7.ClassStudents.pdb
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\1.ExampleMatrix\7. ClassStudents\obj\Debug\7. ClassStudents.csprojResolveAssemblyReference.cache
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\1.ExampleMatrix\7. ClassStudents\obj\Debug\_7.ClassStudents.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\1.ExampleMatrix\7. ClassStudents\obj\Debug\_7.ClassStudents.pdb

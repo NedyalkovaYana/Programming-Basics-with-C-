@@ -1,0 +1,6 @@
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Lecture3SoftUni\14.TimePlus15Minutes\bin\Debug\14.TimePlus15Minutes.exe.config
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Lecture3SoftUni\14.TimePlus15Minutes\bin\Debug\14.TimePlus15Minutes.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Lecture3SoftUni\14.TimePlus15Minutes\bin\Debug\14.TimePlus15Minutes.pdb
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Lecture3SoftUni\14.TimePlus15Minutes\obj\Debug\14.TimePlus15Minutes.csprojResolveAssemblyReference.cache
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Lecture3SoftUni\14.TimePlus15Minutes\obj\Debug\14.TimePlus15Minutes.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Lecture3SoftUni\14.TimePlus15Minutes\obj\Debug\14.TimePlus15Minutes.pdb

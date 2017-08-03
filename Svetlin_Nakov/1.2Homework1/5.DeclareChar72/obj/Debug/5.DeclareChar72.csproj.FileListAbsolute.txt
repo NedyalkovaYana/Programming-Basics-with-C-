@@ -1,0 +1,6 @@
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2015\Projects\Homework1\5.DeclareChar72\bin\Debug\5.DeclareChar72.exe.config
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2015\Projects\Homework1\5.DeclareChar72\bin\Debug\5.DeclareChar72.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2015\Projects\Homework1\5.DeclareChar72\bin\Debug\5.DeclareChar72.pdb
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2015\Projects\Homework1\5.DeclareChar72\obj\Debug\5.DeclareChar72.csprojResolveAssemblyReference.cache
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2015\Projects\Homework1\5.DeclareChar72\obj\Debug\5.DeclareChar72.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2015\Projects\Homework1\5.DeclareChar72\obj\Debug\5.DeclareChar72.pdb

@@ -1,0 +1,5 @@
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\SimpleCalculation\9.CelsiusToFahrenheit\bin\Debug\9.CelsiusToFahrenheit.exe.config
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\SimpleCalculation\9.CelsiusToFahrenheit\bin\Debug\9.CelsiusToFahrenheit.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\SimpleCalculation\9.CelsiusToFahrenheit\bin\Debug\9.CelsiusToFahrenheit.pdb
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\SimpleCalculation\9.CelsiusToFahrenheit\obj\Debug\9.CelsiusToFahrenheit.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\SimpleCalculation\9.CelsiusToFahrenheit\obj\Debug\9.CelsiusToFahrenheit.pdb

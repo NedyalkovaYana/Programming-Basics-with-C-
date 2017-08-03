@@ -1,0 +1,5 @@
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\OldExams\2.VegetableStore\bin\Debug\2.VegetableStore.exe.config
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\OldExams\2.VegetableStore\bin\Debug\2.VegetableStore.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\OldExams\2.VegetableStore\bin\Debug\2.VegetableStore.pdb
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\OldExams\2.VegetableStore\obj\Debug\2.VegetableStore.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\OldExams\2.VegetableStore\obj\Debug\2.VegetableStore.pdb

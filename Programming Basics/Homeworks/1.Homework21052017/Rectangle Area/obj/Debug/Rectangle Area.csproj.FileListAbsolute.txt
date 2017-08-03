@@ -1,0 +1,5 @@
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\1.LectureHomework21052017\Rectangle Area\bin\Debug\Rectangle Area.exe.config
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\1.LectureHomework21052017\Rectangle Area\bin\Debug\Rectangle Area.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\1.LectureHomework21052017\Rectangle Area\bin\Debug\Rectangle Area.pdb
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\1.LectureHomework21052017\Rectangle Area\obj\Debug\Rectangle Area.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\1.LectureHomework21052017\Rectangle Area\obj\Debug\Rectangle Area.pdb

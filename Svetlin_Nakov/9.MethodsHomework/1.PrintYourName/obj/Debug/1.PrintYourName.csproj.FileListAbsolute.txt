@@ -1,0 +1,6 @@
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\MethodsHomework\1.PrintYourName\bin\Debug\1.PrintYourName.exe.config
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\MethodsHomework\1.PrintYourName\bin\Debug\1.PrintYourName.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\MethodsHomework\1.PrintYourName\bin\Debug\1.PrintYourName.pdb
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\MethodsHomework\1.PrintYourName\obj\Debug\1.PrintYourName.csprojResolveAssemblyReference.cache
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\MethodsHomework\1.PrintYourName\obj\Debug\1.PrintYourName.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\MethodsHomework\1.PrintYourName\obj\Debug\1.PrintYourName.pdb

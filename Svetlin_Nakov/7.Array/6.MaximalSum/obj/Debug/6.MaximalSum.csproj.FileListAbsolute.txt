@@ -1,0 +1,6 @@
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\1.PrintArray5To100\6.MaximalSum\bin\Debug\6.MaximalSum.exe.config
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\1.PrintArray5To100\6.MaximalSum\bin\Debug\6.MaximalSum.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\1.PrintArray5To100\6.MaximalSum\bin\Debug\6.MaximalSum.pdb
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\1.PrintArray5To100\6.MaximalSum\obj\Debug\6.MaximalSum.csprojResolveAssemblyReference.cache
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\1.PrintArray5To100\6.MaximalSum\obj\Debug\6.MaximalSum.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\1.PrintArray5To100\6.MaximalSum\obj\Debug\6.MaximalSum.pdb

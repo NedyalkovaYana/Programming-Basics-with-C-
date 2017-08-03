@@ -1,0 +1,6 @@
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\OldExam24.04.2016\04.SmartLili\bin\Debug\04.SmartLili.exe.config
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\OldExam24.04.2016\04.SmartLili\bin\Debug\04.SmartLili.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\OldExam24.04.2016\04.SmartLili\bin\Debug\04.SmartLili.pdb
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\OldExam24.04.2016\04.SmartLili\obj\Debug\04.SmartLili.csprojResolveAssemblyReference.cache
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\OldExam24.04.2016\04.SmartLili\obj\Debug\04.SmartLili.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\OldExam24.04.2016\04.SmartLili\obj\Debug\04.SmartLili.pdb

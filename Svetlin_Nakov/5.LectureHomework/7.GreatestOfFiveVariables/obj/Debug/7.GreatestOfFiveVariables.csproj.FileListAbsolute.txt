@@ -1,0 +1,6 @@
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2015\Projects\5.LectureHomework\7.GreatestOfFiveVariables\bin\Debug\7.GreatestOfFiveVariables.exe.config
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2015\Projects\5.LectureHomework\7.GreatestOfFiveVariables\obj\Debug\7.GreatestOfFiveVariables.csprojResolveAssemblyReference.cache
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2015\Projects\5.LectureHomework\7.GreatestOfFiveVariables\bin\Debug\7.GreatestOfFiveVariables.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2015\Projects\5.LectureHomework\7.GreatestOfFiveVariables\bin\Debug\7.GreatestOfFiveVariables.pdb
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2015\Projects\5.LectureHomework\7.GreatestOfFiveVariables\obj\Debug\7.GreatestOfFiveVariables.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2015\Projects\5.LectureHomework\7.GreatestOfFiveVariables\obj\Debug\7.GreatestOfFiveVariables.pdb

@@ -1,0 +1,5 @@
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2015\Projects\2.HomeworkOperators\9.CircleRectangle\bin\Debug\9.CircleRectangle.exe.config
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2015\Projects\2.HomeworkOperators\9.CircleRectangle\bin\Debug\9.CircleRectangle.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2015\Projects\2.HomeworkOperators\9.CircleRectangle\bin\Debug\9.CircleRectangle.pdb
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2015\Projects\2.HomeworkOperators\9.CircleRectangle\obj\Debug\9.CircleRectangle.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2015\Projects\2.HomeworkOperators\9.CircleRectangle\obj\Debug\9.CircleRectangle.pdb

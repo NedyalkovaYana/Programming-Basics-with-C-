@@ -1,0 +1,5 @@
+c:\users\yana nedyalkova\documents\visual studio 2015\Projects\2.HomeworkOperators\2.HomeworkOperators\bin\Debug\2.HomeworkOperators.exe.config
+c:\users\yana nedyalkova\documents\visual studio 2015\Projects\2.HomeworkOperators\2.HomeworkOperators\bin\Debug\2.HomeworkOperators.exe
+c:\users\yana nedyalkova\documents\visual studio 2015\Projects\2.HomeworkOperators\2.HomeworkOperators\bin\Debug\2.HomeworkOperators.pdb
+c:\users\yana nedyalkova\documents\visual studio 2015\Projects\2.HomeworkOperators\2.HomeworkOperators\obj\Debug\2.HomeworkOperators.exe
+c:\users\yana nedyalkova\documents\visual studio 2015\Projects\2.HomeworkOperators\2.HomeworkOperators\obj\Debug\2.HomeworkOperators.pdb

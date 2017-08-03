@@ -1,0 +1,5 @@
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\OldExam_20.11.2016Evning\02.FlowerShop\bin\Debug\02.FlowerShop.exe.config
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\OldExam_20.11.2016Evning\02.FlowerShop\bin\Debug\02.FlowerShop.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\OldExam_20.11.2016Evning\02.FlowerShop\bin\Debug\02.FlowerShop.pdb
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\OldExam_20.11.2016Evning\02.FlowerShop\obj\Debug\02.FlowerShop.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\OldExam_20.11.2016Evning\02.FlowerShop\obj\Debug\02.FlowerShop.pdb

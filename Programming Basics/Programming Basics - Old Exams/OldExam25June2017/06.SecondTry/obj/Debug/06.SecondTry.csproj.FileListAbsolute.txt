@@ -1,0 +1,6 @@
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\OldExam25June2017\06.SecondTry\bin\Debug\06.SecondTry.exe.config
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\OldExam25June2017\06.SecondTry\bin\Debug\06.SecondTry.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\OldExam25June2017\06.SecondTry\bin\Debug\06.SecondTry.pdb
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\OldExam25June2017\06.SecondTry\obj\Debug\06.SecondTry.csprojResolveAssemblyReference.cache
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\OldExam25June2017\06.SecondTry\obj\Debug\06.SecondTry.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\OldExam25June2017\06.SecondTry\obj\Debug\06.SecondTry.pdb

@@ -1,0 +1,5 @@
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\5.Homework17062017\06.MinNumber\bin\Debug\06.MinNumber.exe.config
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\5.Homework17062017\06.MinNumber\bin\Debug\06.MinNumber.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\5.Homework17062017\06.MinNumber\bin\Debug\06.MinNumber.pdb
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\5.Homework17062017\06.MinNumber\obj\Debug\06.MinNumber.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\5.Homework17062017\06.MinNumber\obj\Debug\06.MinNumber.pdb

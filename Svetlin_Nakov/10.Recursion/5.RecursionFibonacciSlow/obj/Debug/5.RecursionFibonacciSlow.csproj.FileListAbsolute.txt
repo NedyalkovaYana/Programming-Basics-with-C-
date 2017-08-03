@@ -1,0 +1,5 @@
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\10.Recursion\5.RecursionFibonacciSlow\bin\Debug\5.RecursionFibonacciSlow.exe.config
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\10.Recursion\5.RecursionFibonacciSlow\bin\Debug\5.RecursionFibonacciSlow.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\10.Recursion\5.RecursionFibonacciSlow\bin\Debug\5.RecursionFibonacciSlow.pdb
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\10.Recursion\5.RecursionFibonacciSlow\obj\Debug\5.RecursionFibonacciSlow.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\10.Recursion\5.RecursionFibonacciSlow\obj\Debug\5.RecursionFibonacciSlow.pdb

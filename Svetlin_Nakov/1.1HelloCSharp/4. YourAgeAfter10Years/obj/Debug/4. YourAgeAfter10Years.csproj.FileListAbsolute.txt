@@ -1,0 +1,6 @@
+c:\users\boris kovachev\documents\visual studio 2015\Projects\HelloCSharp\4. YourAgeAfter10Years\bin\Debug\_4.YourAgeAfter10Years.exe
+c:\users\boris kovachev\documents\visual studio 2015\Projects\HelloCSharp\4. YourAgeAfter10Years\bin\Debug\_4.YourAgeAfter10Years.pdb
+c:\users\boris kovachev\documents\visual studio 2015\Projects\HelloCSharp\4. YourAgeAfter10Years\obj\Debug\_4.YourAgeAfter10Years.exe
+c:\users\boris kovachev\documents\visual studio 2015\Projects\HelloCSharp\4. YourAgeAfter10Years\obj\Debug\_4.YourAgeAfter10Years.pdb
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2015\Projects\HelloCSharp\4. YourAgeAfter10Years\obj\Debug\_4.YourAgeAfter10Years.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2015\Projects\HelloCSharp\4. YourAgeAfter10Years\obj\Debug\_4.YourAgeAfter10Years.pdb

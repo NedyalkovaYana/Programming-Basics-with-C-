@@ -1,0 +1,6 @@
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\10.Recursion\4.NestedLoops\bin\Debug\4.NestedLoops.exe.config
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\10.Recursion\4.NestedLoops\bin\Debug\4.NestedLoops.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\10.Recursion\4.NestedLoops\bin\Debug\4.NestedLoops.pdb
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\10.Recursion\4.NestedLoops\obj\Debug\4.NestedLoops.csprojResolveAssemblyReference.cache
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\10.Recursion\4.NestedLoops\obj\Debug\4.NestedLoops.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\10.Recursion\4.NestedLoops\obj\Debug\4.NestedLoops.pdb

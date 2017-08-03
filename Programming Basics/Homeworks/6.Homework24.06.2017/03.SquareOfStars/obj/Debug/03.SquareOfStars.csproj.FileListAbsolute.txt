@@ -1,0 +1,5 @@
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\6.Homework24.06.2017\03.SquareOfStars\bin\Debug\03.SquareOfStars.exe.config
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\6.Homework24.06.2017\03.SquareOfStars\bin\Debug\03.SquareOfStars.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\6.Homework24.06.2017\03.SquareOfStars\bin\Debug\03.SquareOfStars.pdb
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\6.Homework24.06.2017\03.SquareOfStars\obj\Debug\03.SquareOfStars.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\6.Homework24.06.2017\03.SquareOfStars\obj\Debug\03.SquareOfStars.pdb

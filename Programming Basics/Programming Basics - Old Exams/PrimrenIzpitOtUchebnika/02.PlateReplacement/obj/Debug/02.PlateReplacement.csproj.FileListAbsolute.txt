@@ -1,0 +1,6 @@
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Programming Basics\Programming Basics - Old Exams\PrimrenIzpitOtUchebnika\02.PlateReplacement\bin\Debug\02.PlateReplacement.exe.config
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Programming Basics\Programming Basics - Old Exams\PrimrenIzpitOtUchebnika\02.PlateReplacement\bin\Debug\02.PlateReplacement.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Programming Basics\Programming Basics - Old Exams\PrimrenIzpitOtUchebnika\02.PlateReplacement\bin\Debug\02.PlateReplacement.pdb
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Programming Basics\Programming Basics - Old Exams\PrimrenIzpitOtUchebnika\02.PlateReplacement\obj\Debug\02.PlateReplacement.csprojResolveAssemblyReference.cache
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Programming Basics\Programming Basics - Old Exams\PrimrenIzpitOtUchebnika\02.PlateReplacement\obj\Debug\02.PlateReplacement.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Programming Basics\Programming Basics - Old Exams\PrimrenIzpitOtUchebnika\02.PlateReplacement\obj\Debug\02.PlateReplacement.pdb

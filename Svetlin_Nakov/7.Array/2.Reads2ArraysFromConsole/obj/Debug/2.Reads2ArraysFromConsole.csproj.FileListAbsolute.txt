@@ -1,0 +1,5 @@
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\1.PrintArray5To100\2.Reads2ArraysFromConsole\bin\Debug\2.Reads2ArraysFromConsole.exe.config
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\1.PrintArray5To100\2.Reads2ArraysFromConsole\bin\Debug\2.Reads2ArraysFromConsole.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\1.PrintArray5To100\2.Reads2ArraysFromConsole\bin\Debug\2.Reads2ArraysFromConsole.pdb
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\1.PrintArray5To100\2.Reads2ArraysFromConsole\obj\Debug\2.Reads2ArraysFromConsole.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\1.PrintArray5To100\2.Reads2ArraysFromConsole\obj\Debug\2.Reads2ArraysFromConsole.pdb

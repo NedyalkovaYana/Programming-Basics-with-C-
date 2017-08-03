@@ -1,0 +1,5 @@
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2015\Projects\6.Cikli_Homework\2.DivisibleByTreeAndFive\bin\Debug\2.DivisibleByTreeAndFive.exe.config
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2015\Projects\6.Cikli_Homework\2.DivisibleByTreeAndFive\bin\Debug\2.DivisibleByTreeAndFive.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2015\Projects\6.Cikli_Homework\2.DivisibleByTreeAndFive\bin\Debug\2.DivisibleByTreeAndFive.pdb
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2015\Projects\6.Cikli_Homework\2.DivisibleByTreeAndFive\obj\Debug\2.DivisibleByTreeAndFive.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2015\Projects\6.Cikli_Homework\2.DivisibleByTreeAndFive\obj\Debug\2.DivisibleByTreeAndFive.pdb

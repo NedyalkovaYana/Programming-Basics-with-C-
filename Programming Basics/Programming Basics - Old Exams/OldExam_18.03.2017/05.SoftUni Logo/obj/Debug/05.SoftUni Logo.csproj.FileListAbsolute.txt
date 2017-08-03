@@ -1,0 +1,6 @@
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\OldExam_18.03.2017\05.SoftUni Logo\bin\Debug\05.SoftUni Logo.exe.config
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\OldExam_18.03.2017\05.SoftUni Logo\bin\Debug\05.SoftUni Logo.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\OldExam_18.03.2017\05.SoftUni Logo\bin\Debug\05.SoftUni Logo.pdb
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\OldExam_18.03.2017\05.SoftUni Logo\obj\Debug\05.SoftUni Logo.csprojResolveAssemblyReference.cache
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\OldExam_18.03.2017\05.SoftUni Logo\obj\Debug\05.SoftUni Logo.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\OldExam_18.03.2017\05.SoftUni Logo\obj\Debug\05.SoftUni Logo.pdb

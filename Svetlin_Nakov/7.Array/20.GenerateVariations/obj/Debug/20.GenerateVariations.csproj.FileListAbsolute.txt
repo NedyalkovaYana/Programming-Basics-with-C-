@@ -1,0 +1,5 @@
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Svetlin_Nakov\7.Array\20.GenerateVariations\bin\Debug\20.GenerateVariations.exe.config
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Svetlin_Nakov\7.Array\20.GenerateVariations\bin\Debug\20.GenerateVariations.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Svetlin_Nakov\7.Array\20.GenerateVariations\bin\Debug\20.GenerateVariations.pdb
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Svetlin_Nakov\7.Array\20.GenerateVariations\obj\Debug\20.GenerateVariations.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Svetlin_Nakov\7.Array\20.GenerateVariations\obj\Debug\20.GenerateVariations.pdb

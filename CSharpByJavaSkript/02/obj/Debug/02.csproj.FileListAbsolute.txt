@@ -1,0 +1,6 @@
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\CSharpByJavaSkript\02\bin\Debug\02.exe.config
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\CSharpByJavaSkript\02\bin\Debug\02.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\CSharpByJavaSkript\02\bin\Debug\02.pdb
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\CSharpByJavaSkript\02\obj\Debug\02.csprojResolveAssemblyReference.cache
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\CSharpByJavaSkript\02\obj\Debug\02.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\CSharpByJavaSkript\02\obj\Debug\02.pdb

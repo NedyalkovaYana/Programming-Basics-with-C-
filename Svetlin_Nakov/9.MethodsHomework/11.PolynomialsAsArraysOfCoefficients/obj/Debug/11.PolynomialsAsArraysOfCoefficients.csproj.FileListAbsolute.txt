@@ -1,0 +1,6 @@
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Svetlin_Nakov\MethodsHomework\11.PolynomialsAsArraysOfCoefficients\obj\Debug\11.PolynomialsAsArraysOfCoefficients.csprojResolveAssemblyReference.cache
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Svetlin_Nakov\MethodsHomework\11.PolynomialsAsArraysOfCoefficients\bin\Debug\11.PolynomialsAsArraysOfCoefficients.exe.config
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Svetlin_Nakov\MethodsHomework\11.PolynomialsAsArraysOfCoefficients\bin\Debug\11.PolynomialsAsArraysOfCoefficients.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Svetlin_Nakov\MethodsHomework\11.PolynomialsAsArraysOfCoefficients\bin\Debug\11.PolynomialsAsArraysOfCoefficients.pdb
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Svetlin_Nakov\MethodsHomework\11.PolynomialsAsArraysOfCoefficients\obj\Debug\11.PolynomialsAsArraysOfCoefficients.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Svetlin_Nakov\MethodsHomework\11.PolynomialsAsArraysOfCoefficients\obj\Debug\11.PolynomialsAsArraysOfCoefficients.pdb

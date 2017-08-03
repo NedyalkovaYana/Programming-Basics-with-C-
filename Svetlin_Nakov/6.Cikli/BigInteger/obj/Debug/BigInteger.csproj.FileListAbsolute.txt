@@ -1,0 +1,6 @@
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2015\Projects\6.Cikli\BigInteger\bin\Debug\BigInteger.exe.config
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2015\Projects\6.Cikli\BigInteger\obj\Debug\BigInteger.csprojResolveAssemblyReference.cache
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2015\Projects\6.Cikli\BigInteger\bin\Debug\BigInteger.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2015\Projects\6.Cikli\BigInteger\bin\Debug\BigInteger.pdb
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2015\Projects\6.Cikli\BigInteger\obj\Debug\BigInteger.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2015\Projects\6.Cikli\BigInteger\obj\Debug\BigInteger.pdb

@@ -1,0 +1,6 @@
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Svetlin_Nakov\MethodsHomework\10.CalculateFactorial\bin\Debug\10.CalculateFactorial.exe.config
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Svetlin_Nakov\MethodsHomework\10.CalculateFactorial\bin\Debug\10.CalculateFactorial.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Svetlin_Nakov\MethodsHomework\10.CalculateFactorial\bin\Debug\10.CalculateFactorial.pdb
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Svetlin_Nakov\MethodsHomework\10.CalculateFactorial\obj\Debug\10.CalculateFactorial.csprojResolveAssemblyReference.cache
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Svetlin_Nakov\MethodsHomework\10.CalculateFactorial\obj\Debug\10.CalculateFactorial.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Svetlin_Nakov\MethodsHomework\10.CalculateFactorial\obj\Debug\10.CalculateFactorial.pdb

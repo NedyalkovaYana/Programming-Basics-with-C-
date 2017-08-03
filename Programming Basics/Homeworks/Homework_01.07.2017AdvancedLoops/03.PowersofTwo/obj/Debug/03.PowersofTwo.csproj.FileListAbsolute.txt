@@ -1,0 +1,5 @@
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Homework_01.07.2017AdvancedLoops\03.PowersofTwo\bin\Debug\03.PowersofTwo.exe.config
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Homework_01.07.2017AdvancedLoops\03.PowersofTwo\bin\Debug\03.PowersofTwo.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Homework_01.07.2017AdvancedLoops\03.PowersofTwo\bin\Debug\03.PowersofTwo.pdb
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Homework_01.07.2017AdvancedLoops\03.PowersofTwo\obj\Debug\03.PowersofTwo.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Homework_01.07.2017AdvancedLoops\03.PowersofTwo\obj\Debug\03.PowersofTwo.pdb

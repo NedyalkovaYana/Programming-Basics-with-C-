@@ -1,0 +1,6 @@
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2015\Projects\6.Cikli\NestedLoop\bin\Debug\NestedLoop.exe.config
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2015\Projects\6.Cikli\NestedLoop\bin\Debug\NestedLoop.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2015\Projects\6.Cikli\NestedLoop\bin\Debug\NestedLoop.pdb
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2015\Projects\6.Cikli\NestedLoop\obj\Debug\NestedLoop.csprojResolveAssemblyReference.cache
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2015\Projects\6.Cikli\NestedLoop\obj\Debug\NestedLoop.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2015\Projects\6.Cikli\NestedLoop\obj\Debug\NestedLoop.pdb

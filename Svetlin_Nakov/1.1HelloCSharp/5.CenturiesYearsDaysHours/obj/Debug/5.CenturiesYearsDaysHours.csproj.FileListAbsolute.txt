@@ -1,0 +1,7 @@
+c:\users\boris kovachev\documents\visual studio 2015\Projects\HelloCSharp\5.CenturiesYearsDaysHours\bin\Debug\5.CenturiesYearsDaysHours.exe
+c:\users\boris kovachev\documents\visual studio 2015\Projects\HelloCSharp\5.CenturiesYearsDaysHours\bin\Debug\5.CenturiesYearsDaysHours.pdb
+c:\users\boris kovachev\documents\visual studio 2015\Projects\HelloCSharp\5.CenturiesYearsDaysHours\obj\Debug\5.CenturiesYearsDaysHours.exe
+c:\users\boris kovachev\documents\visual studio 2015\Projects\HelloCSharp\5.CenturiesYearsDaysHours\obj\Debug\5.CenturiesYearsDaysHours.pdb
+C:\Users\Boris Kovachev\Documents\Visual Studio 2015\Projects\HelloCSharp\5.CenturiesYearsDaysHours\obj\Debug\5.CenturiesYearsDaysHours.csprojResolveAssemblyReference.cache
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2015\Projects\HelloCSharp\5.CenturiesYearsDaysHours\obj\Debug\5.CenturiesYearsDaysHours.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2015\Projects\HelloCSharp\5.CenturiesYearsDaysHours\obj\Debug\5.CenturiesYearsDaysHours.pdb

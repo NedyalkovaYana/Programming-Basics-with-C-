@@ -1,0 +1,6 @@
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\MethodsHomework\6.FirstElementBiggerThanNeighbours\bin\Debug\6.FirstElementBiggerThanNeighbours.exe.config
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\MethodsHomework\6.FirstElementBiggerThanNeighbours\bin\Debug\6.FirstElementBiggerThanNeighbours.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\MethodsHomework\6.FirstElementBiggerThanNeighbours\bin\Debug\6.FirstElementBiggerThanNeighbours.pdb
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\MethodsHomework\6.FirstElementBiggerThanNeighbours\obj\Debug\6.FirstElementBiggerThanNeighbours.csprojResolveAssemblyReference.cache
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\MethodsHomework\6.FirstElementBiggerThanNeighbours\obj\Debug\6.FirstElementBiggerThanNeighbours.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\MethodsHomework\6.FirstElementBiggerThanNeighbours\obj\Debug\6.FirstElementBiggerThanNeighbours.pdb

@@ -1,0 +1,6 @@
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\5.Homework17062017\09.1VowelsSumSecondSolution\bin\Debug\09.1VowelsSumSecondSolution.exe.config
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\5.Homework17062017\09.1VowelsSumSecondSolution\bin\Debug\09.1VowelsSumSecondSolution.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\5.Homework17062017\09.1VowelsSumSecondSolution\bin\Debug\09.1VowelsSumSecondSolution.pdb
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\5.Homework17062017\09.1VowelsSumSecondSolution\obj\Debug\09.1VowelsSumSecondSolution.csprojResolveAssemblyReference.cache
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\5.Homework17062017\09.1VowelsSumSecondSolution\obj\Debug\09.1VowelsSumSecondSolution.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\5.Homework17062017\09.1VowelsSumSecondSolution\obj\Debug\09.1VowelsSumSecondSolution.pdb

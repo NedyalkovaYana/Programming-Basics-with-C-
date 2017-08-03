@@ -1,0 +1,6 @@
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2015\Projects\Homework1\3. FloatimgPoint\bin\Debug\_3.FloatimgPoint.exe.config
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2015\Projects\Homework1\3. FloatimgPoint\obj\Debug\3. FloatingPoint.csprojResolveAssemblyReference.cache
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2015\Projects\Homework1\3. FloatimgPoint\bin\Debug\_3.FloatimgPoint.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2015\Projects\Homework1\3. FloatimgPoint\bin\Debug\_3.FloatimgPoint.pdb
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2015\Projects\Homework1\3. FloatimgPoint\obj\Debug\_3.FloatimgPoint.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2015\Projects\Homework1\3. FloatimgPoint\obj\Debug\_3.FloatimgPoint.pdb

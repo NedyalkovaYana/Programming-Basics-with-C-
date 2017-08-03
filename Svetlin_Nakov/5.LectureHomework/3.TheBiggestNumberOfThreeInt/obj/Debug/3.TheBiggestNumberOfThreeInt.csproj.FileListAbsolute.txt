@@ -1,0 +1,6 @@
+c:\users\yana nedyalkova\documents\visual studio 2015\Projects\5.LectureHomework\3.TheBiggestNumberOfThreeInt\bin\Debug\3.TheBiggestNumberOfThreeInt.exe.config
+c:\users\yana nedyalkova\documents\visual studio 2015\Projects\5.LectureHomework\3.TheBiggestNumberOfThreeInt\bin\Debug\3.TheBiggestNumberOfThreeInt.exe
+c:\users\yana nedyalkova\documents\visual studio 2015\Projects\5.LectureHomework\3.TheBiggestNumberOfThreeInt\bin\Debug\3.TheBiggestNumberOfThreeInt.pdb
+c:\users\yana nedyalkova\documents\visual studio 2015\Projects\5.LectureHomework\3.TheBiggestNumberOfThreeInt\obj\Debug\3.TheBiggestNumberOfThreeInt.csprojResolveAssemblyReference.cache
+c:\users\yana nedyalkova\documents\visual studio 2015\Projects\5.LectureHomework\3.TheBiggestNumberOfThreeInt\obj\Debug\3.TheBiggestNumberOfThreeInt.exe
+c:\users\yana nedyalkova\documents\visual studio 2015\Projects\5.LectureHomework\3.TheBiggestNumberOfThreeInt\obj\Debug\3.TheBiggestNumberOfThreeInt.pdb

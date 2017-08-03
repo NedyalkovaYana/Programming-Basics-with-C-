@@ -1,0 +1,5 @@
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\NumeralSystemHomework\3.DecimalToHexadecimal\bin\Debug\3.DecimalToHexadecimal.exe.config
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\NumeralSystemHomework\3.DecimalToHexadecimal\bin\Debug\3.DecimalToHexadecimal.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\NumeralSystemHomework\3.DecimalToHexadecimal\bin\Debug\3.DecimalToHexadecimal.pdb
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\NumeralSystemHomework\3.DecimalToHexadecimal\obj\Debug\3.DecimalToHexadecimal.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\NumeralSystemHomework\3.DecimalToHexadecimal\obj\Debug\3.DecimalToHexadecimal.pdb

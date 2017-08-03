@@ -1,0 +1,6 @@
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\SoftUni\OldExam06.05.2016\2.TransportPrice\bin\Debug\2.TransportPrice.exe.config
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\SoftUni\OldExam06.05.2016\2.TransportPrice\bin\Debug\2.TransportPrice.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\SoftUni\OldExam06.05.2016\2.TransportPrice\bin\Debug\2.TransportPrice.pdb
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\SoftUni\OldExam06.05.2016\2.TransportPrice\obj\Debug\2.TransportPrice.csprojResolveAssemblyReference.cache
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\SoftUni\OldExam06.05.2016\2.TransportPrice\obj\Debug\2.TransportPrice.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\SoftUni\OldExam06.05.2016\2.TransportPrice\obj\Debug\2.TransportPrice.pdb

@@ -1,0 +1,5 @@
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\6.Homework24.06.2017\09.House\bin\Debug\09.House.exe.config
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\6.Homework24.06.2017\09.House\bin\Debug\09.House.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\6.Homework24.06.2017\09.House\bin\Debug\09.House.pdb
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\6.Homework24.06.2017\09.House\obj\Debug\09.House.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\6.Homework24.06.2017\09.House\obj\Debug\09.House.pdb

@@ -1,0 +1,5 @@
+c:\users\yana nedyalkova\documents\visual studio 2015\Projects\1.HomeworkDataType\3.CountSalaryForFiveYears\bin\Debug\3.CountSalaryForFiveYears.exe.config
+c:\users\yana nedyalkova\documents\visual studio 2015\Projects\1.HomeworkDataType\3.CountSalaryForFiveYears\bin\Debug\3.CountSalaryForFiveYears.exe
+c:\users\yana nedyalkova\documents\visual studio 2015\Projects\1.HomeworkDataType\3.CountSalaryForFiveYears\bin\Debug\3.CountSalaryForFiveYears.pdb
+c:\users\yana nedyalkova\documents\visual studio 2015\Projects\1.HomeworkDataType\3.CountSalaryForFiveYears\obj\Debug\3.CountSalaryForFiveYears.exe
+c:\users\yana nedyalkova\documents\visual studio 2015\Projects\1.HomeworkDataType\3.CountSalaryForFiveYears\obj\Debug\3.CountSalaryForFiveYears.pdb

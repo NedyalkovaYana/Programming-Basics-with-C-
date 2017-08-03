@@ -1,0 +1,6 @@
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Lecture3SoftUni\3.Lecture03062017\bin\Debug\3.Lecture03062017.exe.config
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Lecture3SoftUni\3.Lecture03062017\bin\Debug\3.Lecture03062017.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Lecture3SoftUni\3.Lecture03062017\bin\Debug\3.Lecture03062017.pdb
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Lecture3SoftUni\3.Lecture03062017\obj\Debug\1.ExcellentResult.csprojResolveAssemblyReference.cache
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Lecture3SoftUni\3.Lecture03062017\obj\Debug\3.Lecture03062017.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Lecture3SoftUni\3.Lecture03062017\obj\Debug\3.Lecture03062017.pdb

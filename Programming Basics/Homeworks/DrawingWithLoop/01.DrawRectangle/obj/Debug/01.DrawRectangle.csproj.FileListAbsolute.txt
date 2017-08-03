@@ -1,0 +1,6 @@
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\DrawingWithLoop\01.DrawRectangle\bin\Debug\01.DrawRectangle.exe.config
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\DrawingWithLoop\01.DrawRectangle\bin\Debug\01.DrawRectangle.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\DrawingWithLoop\01.DrawRectangle\bin\Debug\01.DrawRectangle.pdb
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\DrawingWithLoop\01.DrawRectangle\obj\Debug\01.DrawRectangle.csprojResolveAssemblyReference.cache
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\DrawingWithLoop\01.DrawRectangle\obj\Debug\01.DrawRectangle.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\DrawingWithLoop\01.DrawRectangle\obj\Debug\01.DrawRectangle.pdb

@@ -1,0 +1,6 @@
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\SoftUni\3.Homework\test\bin\Debug\test.exe.config
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\SoftUni\3.Homework\test\bin\Debug\test.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\SoftUni\3.Homework\test\bin\Debug\test.pdb
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\SoftUni\3.Homework\test\obj\Debug\test.csprojResolveAssemblyReference.cache
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\SoftUni\3.Homework\test\obj\Debug\test.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\SoftUni\3.Homework\test\obj\Debug\test.pdb

@@ -1,0 +1,6 @@
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\OldExams\5.DayProfit\bin\Debug\5.DayProfit.exe.config
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\OldExams\5.DayProfit\bin\Debug\5.DayProfit.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\OldExams\5.DayProfit\bin\Debug\5.DayProfit.pdb
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\OldExams\5.DayProfit\obj\Debug\5.DayProfit.csprojResolveAssemblyReference.cache
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\OldExams\5.DayProfit\obj\Debug\5.DayProfit.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\OldExams\5.DayProfit\obj\Debug\5.DayProfit.pdb

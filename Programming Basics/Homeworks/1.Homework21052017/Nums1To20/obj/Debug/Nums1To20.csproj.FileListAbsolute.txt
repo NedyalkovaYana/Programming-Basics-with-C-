@@ -1,0 +1,5 @@
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\1.LectureHomework21052017\Nums1To20\bin\Debug\Nums1To20.exe.config
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\1.LectureHomework21052017\Nums1To20\bin\Debug\Nums1To20.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\1.LectureHomework21052017\Nums1To20\bin\Debug\Nums1To20.pdb
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\1.LectureHomework21052017\Nums1To20\obj\Debug\Nums1To20.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\1.LectureHomework21052017\Nums1To20\obj\Debug\Nums1To20.pdb

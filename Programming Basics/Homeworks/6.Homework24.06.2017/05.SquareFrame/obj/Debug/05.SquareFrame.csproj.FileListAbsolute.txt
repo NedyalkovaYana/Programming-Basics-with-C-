@@ -1,0 +1,5 @@
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\6.Homework24.06.2017\05.SquareFrame\bin\Debug\05.SquareFrame.exe.config
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\6.Homework24.06.2017\05.SquareFrame\bin\Debug\05.SquareFrame.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\6.Homework24.06.2017\05.SquareFrame\bin\Debug\05.SquareFrame.pdb
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\6.Homework24.06.2017\05.SquareFrame\obj\Debug\05.SquareFrame.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\6.Homework24.06.2017\05.SquareFrame\obj\Debug\05.SquareFrame.pdb

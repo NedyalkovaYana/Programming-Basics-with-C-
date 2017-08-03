@@ -1,0 +1,6 @@
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\OldExam24.04.2016\3.OperationBetweenNumbers\bin\Debug\3.OperationBetweenNumbers.exe.config
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\OldExam24.04.2016\3.OperationBetweenNumbers\bin\Debug\3.OperationBetweenNumbers.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\OldExam24.04.2016\3.OperationBetweenNumbers\bin\Debug\3.OperationBetweenNumbers.pdb
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\OldExam24.04.2016\3.OperationBetweenNumbers\obj\Debug\03.OperationBetwNums.csprojResolveAssemblyReference.cache
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\OldExam24.04.2016\3.OperationBetweenNumbers\obj\Debug\3.OperationBetweenNumbers.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\OldExam24.04.2016\3.OperationBetweenNumbers\obj\Debug\3.OperationBetweenNumbers.pdb

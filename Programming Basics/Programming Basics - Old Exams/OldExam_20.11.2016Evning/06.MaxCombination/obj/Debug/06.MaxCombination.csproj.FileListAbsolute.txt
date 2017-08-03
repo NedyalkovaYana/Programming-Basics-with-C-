@@ -1,0 +1,5 @@
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\OldExam_20.11.2016Evning\06.MaxCombination\bin\Debug\06.MaxCombination.exe.config
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\OldExam_20.11.2016Evning\06.MaxCombination\bin\Debug\06.MaxCombination.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\OldExam_20.11.2016Evning\06.MaxCombination\bin\Debug\06.MaxCombination.pdb
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\OldExam_20.11.2016Evning\06.MaxCombination\obj\Debug\06.MaxCombination.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\OldExam_20.11.2016Evning\06.MaxCombination\obj\Debug\06.MaxCombination.pdb

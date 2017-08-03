@@ -1,0 +1,5 @@
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Svetlin_Nakov\7.Array\19.GeneratePermutations\bin\Debug\19.GeneratePermutations.exe.config
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Svetlin_Nakov\7.Array\19.GeneratePermutations\bin\Debug\19.GeneratePermutations.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Svetlin_Nakov\7.Array\19.GeneratePermutations\bin\Debug\19.GeneratePermutations.pdb
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Svetlin_Nakov\7.Array\19.GeneratePermutations\obj\Debug\19.GeneratePermutations.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Svetlin_Nakov\7.Array\19.GeneratePermutations\obj\Debug\19.GeneratePermutations.pdb

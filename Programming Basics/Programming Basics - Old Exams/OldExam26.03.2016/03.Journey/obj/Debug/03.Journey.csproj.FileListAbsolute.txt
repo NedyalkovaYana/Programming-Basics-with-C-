@@ -1,0 +1,5 @@
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\OldExam26.03.2016\03.Journey\bin\Debug\03.Journey.exe.config
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\OldExam26.03.2016\03.Journey\bin\Debug\03.Journey.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\OldExam26.03.2016\03.Journey\bin\Debug\03.Journey.pdb
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\OldExam26.03.2016\03.Journey\obj\Debug\03.Journey.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\OldExam26.03.2016\03.Journey\obj\Debug\03.Journey.pdb

@@ -1,0 +1,6 @@
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\OldExam24.04.2016\05.Stop\bin\Debug\05.Stop.exe.config
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\OldExam24.04.2016\05.Stop\bin\Debug\05.Stop.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\OldExam24.04.2016\05.Stop\bin\Debug\05.Stop.pdb
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\OldExam24.04.2016\05.Stop\obj\Debug\05.Stop.csprojResolveAssemblyReference.cache
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\OldExam24.04.2016\05.Stop\obj\Debug\05.Stop.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\OldExam24.04.2016\05.Stop\obj\Debug\05.Stop.pdb

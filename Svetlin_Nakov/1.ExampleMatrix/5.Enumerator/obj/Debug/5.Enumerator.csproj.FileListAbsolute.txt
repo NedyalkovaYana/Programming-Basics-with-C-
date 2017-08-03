@@ -1,0 +1,5 @@
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\1.ExampleMatrix\5.Enumerator\bin\Debug\5.Enumerator.exe.config
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\1.ExampleMatrix\5.Enumerator\bin\Debug\5.Enumerator.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\1.ExampleMatrix\5.Enumerator\bin\Debug\5.Enumerator.pdb
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\1.ExampleMatrix\5.Enumerator\obj\Debug\5.Enumerator.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\1.ExampleMatrix\5.Enumerator\obj\Debug\5.Enumerator.pdb

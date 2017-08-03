@@ -1,0 +1,6 @@
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\OldExam19.03.2017Evening\01.GrapeAndRakia\bin\Debug\01.GrapeAndRakia.exe.config
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\OldExam19.03.2017Evening\01.GrapeAndRakia\bin\Debug\01.GrapeAndRakia.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\OldExam19.03.2017Evening\01.GrapeAndRakia\bin\Debug\01.GrapeAndRakia.pdb
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\OldExam19.03.2017Evening\01.GrapeAndRakia\obj\Debug\01.GrapeAndRakia.csprojResolveAssemblyReference.cache
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\OldExam19.03.2017Evening\01.GrapeAndRakia\obj\Debug\01.GrapeAndRakia.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\OldExam19.03.2017Evening\01.GrapeAndRakia\obj\Debug\01.GrapeAndRakia.pdb

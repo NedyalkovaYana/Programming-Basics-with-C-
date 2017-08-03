@@ -1,0 +1,5 @@
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Homework_01.07.2017AdvancedLoops\11.EnterEvenNumber\bin\Debug\11.EnterEvenNumber.exe.config
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Homework_01.07.2017AdvancedLoops\11.EnterEvenNumber\bin\Debug\11.EnterEvenNumber.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Homework_01.07.2017AdvancedLoops\11.EnterEvenNumber\bin\Debug\11.EnterEvenNumber.pdb
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Homework_01.07.2017AdvancedLoops\11.EnterEvenNumber\obj\Debug\11.EnterEvenNumber.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Homework_01.07.2017AdvancedLoops\11.EnterEvenNumber\obj\Debug\11.EnterEvenNumber.pdb

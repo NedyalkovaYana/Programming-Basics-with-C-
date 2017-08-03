@@ -1,0 +1,6 @@
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\NumeralSystemHomework\1.FromDecimalToBinary\bin\Debug\1.FromDecimalToBinary.exe.config
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\NumeralSystemHomework\1.FromDecimalToBinary\bin\Debug\1.FromDecimalToBinary.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\NumeralSystemHomework\1.FromDecimalToBinary\bin\Debug\1.FromDecimalToBinary.pdb
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\NumeralSystemHomework\1.FromDecimalToBinary\obj\Debug\1.FromDecimalToBinary.csprojResolveAssemblyReference.cache
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\NumeralSystemHomework\1.FromDecimalToBinary\obj\Debug\1.FromDecimalToBinary.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\NumeralSystemHomework\1.FromDecimalToBinary\obj\Debug\1.FromDecimalToBinary.pdb

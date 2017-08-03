@@ -1,0 +1,5 @@
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\MethodsHomework\2.BiggestNumber\bin\Debug\2.BiggestNumber.exe.config
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\MethodsHomework\2.BiggestNumber\bin\Debug\2.BiggestNumber.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\MethodsHomework\2.BiggestNumber\bin\Debug\2.BiggestNumber.pdb
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\MethodsHomework\2.BiggestNumber\obj\Debug\2.BiggestNumber.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\MethodsHomework\2.BiggestNumber\obj\Debug\2.BiggestNumber.pdb

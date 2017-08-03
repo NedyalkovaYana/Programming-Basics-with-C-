@@ -1,0 +1,6 @@
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\MethodsHomework\3.ReturnsWord\bin\Debug\3.ReturnsWord.exe.config
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\MethodsHomework\3.ReturnsWord\bin\Debug\3.ReturnsWord.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\MethodsHomework\3.ReturnsWord\bin\Debug\3.ReturnsWord.pdb
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\MethodsHomework\3.ReturnsWord\obj\Debug\3.ReturnsWord.csprojResolveAssemblyReference.cache
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\MethodsHomework\3.ReturnsWord\obj\Debug\3.ReturnsWord.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\MethodsHomework\3.ReturnsWord\obj\Debug\3.ReturnsWord.pdb

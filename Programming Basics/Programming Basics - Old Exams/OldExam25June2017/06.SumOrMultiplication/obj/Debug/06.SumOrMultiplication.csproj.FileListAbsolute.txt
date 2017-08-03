@@ -1,0 +1,5 @@
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\OldExam25June2017\06.SumOrMultiplication\bin\Debug\06.SumOrMultiplication.exe.config
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\OldExam25June2017\06.SumOrMultiplication\bin\Debug\06.SumOrMultiplication.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\OldExam25June2017\06.SumOrMultiplication\bin\Debug\06.SumOrMultiplication.pdb
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\OldExam25June2017\06.SumOrMultiplication\obj\Debug\06.SumOrMultiplication.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\OldExam25June2017\06.SumOrMultiplication\obj\Debug\06.SumOrMultiplication.pdb

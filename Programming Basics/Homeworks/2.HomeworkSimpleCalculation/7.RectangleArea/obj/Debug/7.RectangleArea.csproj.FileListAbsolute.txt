@@ -1,0 +1,5 @@
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\SimpleCalculation\7.RectangleArea\bin\Debug\7.RectangleArea.exe.config
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\SimpleCalculation\7.RectangleArea\bin\Debug\7.RectangleArea.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\SimpleCalculation\7.RectangleArea\bin\Debug\7.RectangleArea.pdb
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\SimpleCalculation\7.RectangleArea\obj\Debug\7.RectangleArea.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\SimpleCalculation\7.RectangleArea\obj\Debug\7.RectangleArea.pdb

@@ -1,0 +1,7 @@
+C:\Users\Boris Kovachev\Documents\Visual Studio 2015\Projects\HelloCSharp\ObjectType\obj\Debug\ObjectType.csprojResolveAssemblyReference.cache
+C:\Users\Boris Kovachev\Documents\Visual Studio 2015\Projects\HelloCSharp\ObjectType\bin\Debug\ObjectType.exe
+C:\Users\Boris Kovachev\Documents\Visual Studio 2015\Projects\HelloCSharp\ObjectType\bin\Debug\ObjectType.pdb
+C:\Users\Boris Kovachev\Documents\Visual Studio 2015\Projects\HelloCSharp\ObjectType\obj\Debug\ObjectType.exe
+C:\Users\Boris Kovachev\Documents\Visual Studio 2015\Projects\HelloCSharp\ObjectType\obj\Debug\ObjectType.pdb
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2015\Projects\HelloCSharp\ObjectType\obj\Debug\ObjectType.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2015\Projects\HelloCSharp\ObjectType\obj\Debug\ObjectType.pdb

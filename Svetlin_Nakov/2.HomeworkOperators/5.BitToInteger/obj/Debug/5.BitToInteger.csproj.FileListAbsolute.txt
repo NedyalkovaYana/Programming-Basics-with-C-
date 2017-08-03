@@ -1,0 +1,6 @@
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2015\Projects\2.HomeworkOperators\5.BitToInteger\bin\Debug\5.BitToInteger.exe.config
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2015\Projects\2.HomeworkOperators\5.BitToInteger\bin\Debug\5.BitToInteger.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2015\Projects\2.HomeworkOperators\5.BitToInteger\bin\Debug\5.BitToInteger.pdb
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2015\Projects\2.HomeworkOperators\5.BitToInteger\obj\Debug\5.BitToInteger.csprojResolveAssemblyReference.cache
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2015\Projects\2.HomeworkOperators\5.BitToInteger\obj\Debug\5.BitToInteger.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2015\Projects\2.HomeworkOperators\5.BitToInteger\obj\Debug\5.BitToInteger.pdb

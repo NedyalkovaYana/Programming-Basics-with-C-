@@ -1,0 +1,6 @@
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\NumeralSystem\TestNumeralSystem\bin\Debug\TestNumeralSystem.exe.config
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\NumeralSystem\TestNumeralSystem\bin\Debug\TestNumeralSystem.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\NumeralSystem\TestNumeralSystem\bin\Debug\TestNumeralSystem.pdb
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\NumeralSystem\TestNumeralSystem\obj\Debug\TestNumeralSystem.csprojResolveAssemblyReference.cache
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\NumeralSystem\TestNumeralSystem\obj\Debug\TestNumeralSystem.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\NumeralSystem\TestNumeralSystem\obj\Debug\TestNumeralSystem.pdb

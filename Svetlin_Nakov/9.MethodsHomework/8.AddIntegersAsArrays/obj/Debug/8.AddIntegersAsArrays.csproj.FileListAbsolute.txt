@@ -1,0 +1,6 @@
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\MethodsHomework\8.AddIntegersAsArrays\bin\Debug\8.AddIntegersAsArrays.exe.config
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\MethodsHomework\8.AddIntegersAsArrays\bin\Debug\8.AddIntegersAsArrays.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\MethodsHomework\8.AddIntegersAsArrays\bin\Debug\8.AddIntegersAsArrays.pdb
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\MethodsHomework\8.AddIntegersAsArrays\obj\Debug\8.AddIntegersAsArrays.csprojResolveAssemblyReference.cache
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\MethodsHomework\8.AddIntegersAsArrays\obj\Debug\8.AddIntegersAsArrays.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\MethodsHomework\8.AddIntegersAsArrays\obj\Debug\8.AddIntegersAsArrays.pdb

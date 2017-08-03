@@ -1,0 +1,5 @@
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2015\Projects\Homework1\4.HexademicalFormat\bin\Debug\4.HexademicalFormat.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2015\Projects\Homework1\4.HexademicalFormat\bin\Debug\4.HexademicalFormat.pdb
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2015\Projects\Homework1\4.HexademicalFormat\obj\Debug\4.HexademicalFormat.csprojResolveAssemblyReference.cache
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2015\Projects\Homework1\4.HexademicalFormat\obj\Debug\4.HexademicalFormat.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2015\Projects\Homework1\4.HexademicalFormat\obj\Debug\4.HexademicalFormat.pdb

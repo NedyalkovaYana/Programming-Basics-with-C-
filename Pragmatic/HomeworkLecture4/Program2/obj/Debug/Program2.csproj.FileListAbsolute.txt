@@ -1,0 +1,6 @@
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\HomeworkLecture4\Program2\bin\Debug\Program2.exe.config
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\HomeworkLecture4\Program2\bin\Debug\Program2.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\HomeworkLecture4\Program2\bin\Debug\Program2.pdb
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\HomeworkLecture4\Program2\obj\Debug\Program2.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\HomeworkLecture4\Program2\obj\Debug\Program2.pdb
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\HomeworkLecture4\Program2\obj\Debug\Program2.csprojResolveAssemblyReference.cache
